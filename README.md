@@ -23,13 +23,6 @@
 - Get familiar with class culture.
 
 
-
-### INSTRUCTOR PREP
-*Before this lesson, instructors will need to:*
-
-- Fill in relevant details for your specific cohort.
-- Optional: Create a deck for this intro session. For an example, see this [Orientation Deck](https://drive.google.com/file/d/0B-kyGN2IJQspMGlxTUVmcGY1OVE/view).
-
 ---
 
 <a name="introduction"></a>
