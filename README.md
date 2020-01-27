@@ -20,7 +20,7 @@
 - Understand the expectations for the course.
 - Align with the class on goals for the course.
 - Get to know your classmates.
-- Get familiar with class culture.
+- Get familiar with class culture and big goals.
 
 
 ---
@@ -28,29 +28,27 @@
 <a name="introduction"></a>
 ## Your Instructional Team (10 min)
 
-#### Instructor Introduction
-- Instructor Names
+#### Instructor Roles
 
-  > Instructor Note: Fill this in with relevant details about your team.
-
-#### Roles
-1. Instructor Lead
-  - Lesson blocks
-  - Code-alongs
-  - Labs
-  - Each instructor takes on a different topic for each unit.
-  - Grades homework
-1. Instructor Associate
-  - Morning exercises
-  - Afternoon code reviews
-  - Wednesday second-pass/reviews
-  - Creates homework
-  - Grades homework
-1. Evening TA
-  - One-on-one help
+1. Instructor Lead (Marc + Leo)
+     - Lesson blocks
+     - Code-alongs
+     - Labs
+     - Each instructor takes on a different topic for each unit.
+     - Grades homework
+  
+2. Instructor Associate (Brian)
+     - Morning exercises
+     - Afternoon code reviews
+     - Creates homework
+     - Grades homework
 
 
-  > Instructor Note: Fill this in with relevant details about your team.
+<br>
+
+## Unit 1 Schedule
+
+<br>
 
 <a name="expectations"></a>
 ## What to Expect (10 min)
@@ -72,10 +70,21 @@
 		- It's good to get that out of the way before we start working.
 - This course is hard work: Be prepared to devote 80-90 hours a week, minimum.
 - The maximum point of learning is right at the edge of learning and panic.
+
+<br>
+
 ![learning zone](assets/learning-zone.jpeg)
+
+<br>
+
 - This experience will be a roller coaster.
+
+<br>
+
 ![informed optimism?](assets/informed-optimism.jpeg)
 
+
+<br>
 
 <a name="ga-culture"></a>
 ## GA Culture (10 min)
@@ -95,6 +104,7 @@
 - Teaching is the best way of truly solidifying your understanding of a concept.
 - Your classmates will be the best foundation for establishing a professional network in tech!
 
+<br>
 
 <a name="student-expectations"></a>
 ## Student Expectations (15 min)
@@ -113,10 +123,13 @@
 6. Be Alert and Mindful, not Distracted
 
 
- > Instructor Note: Fill in with relevant details about your cohort.
+<br>
 
 <a name="plagiarism"></a>
 ## Plagiarism (10 min)
+
+[Plagiarism Readme](plagiarism.md)
+
 #### Statement
 
 General Assembly takes academic honesty very seriously and will not tolerate any student who plagiarizes in order to satisfy course requirements. Immersive programs at General Assembly are intensive and require a lot of work on the part of the student. That said, students will occasionally not be able to complete work in a timely fashion.  
@@ -137,6 +150,7 @@ On a first offense, a student will be placed on probation and asked to produce n
 
 In cases of egregious offenses (e.g., presenting another student's project, an external product, work you did before enrolling at General Assembly, work contracted out to professional developers, etc.), disciplinary action will be escalated to removal from the program.
 
+<br>
 
 <a name="student-work"></a>
 ## Intro to Assessments and Exit Tickets (10 min)
