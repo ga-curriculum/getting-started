@@ -155,13 +155,6 @@ In cases of egregious offenses (e.g., presenting another student's project, an e
 <a name="student-work"></a>
 ## Intro to Assessments and Exit Tickets (10 min)
 
-#### Stand Up
-- Wins
-- Repass
-- Feeling
-
-#### Team Building
-- Try to pair with someone new every day.
 
 #### Common Student Concerns
 1. I'm making a lot of mistakes.
@@ -192,25 +185,6 @@ In cases of egregious offenses (e.g., presenting another student's project, an e
 1. Ask for constant feedback.
 1. Stand up and walk around.
 1. Get out a little bit each day and do something that's not related to programming.
-
-
-<a name="introductions"></a>
-## Introductions (15 min)
-
-#### Briefly Tell Us About You
-- What's your name?
-- Where are you from?
-- What is your hometown like?
-
-#### Help Us Get to Know You
-- Tell us a guilty pleasure.
-- Share a fun fact about yourself.
-
-#### Tell Us About Your Programming Experience
-- What did you enjoy about the programming work you did in Fundamentals?
-
-> Instructor Note: There are lots of fun ice breakers you can experiment with either today or over the course of the next several days to build the class' community and culture.
-***
 
 <a name="questions"></a>
 ## Q&A (10 min)
