@@ -5,7 +5,7 @@
 | --- | ---
 | 10 min | [Your Instructional Team](#introduction) 
 | 10 min | [Schedule](#expectations) 
-| 10 min | [GA Culture](#ga-culture) 
+| 10 min | [Big Goals and Culture](#ga-culture) 
 | 10 min | [Student Expectations](#student-expectations) 
 | 10 min | [Plagiarism](#plagiarism) 
 | 10 min | [Student Work](#student-work)
@@ -45,11 +45,29 @@
 
 <br>
 
-## Unit 1/Daily Schedule
+## Daily Schedule
 
-We have a plan for this course, however, we reserve the right to make changes. I will post a few screen shots into Slack for reference.
+We have a plan for this course, however, we reserve the right to make changes. For example, here is our plan for the first 2 weeks.
+
+#### Week 1
+
+![](./assets/week1.png)
+
+#### Week 2
+
+![](https://i.imgur.com/JzufZ9y.png)
+
+
+## Unit Breakdown
+
+- Unit 1: Frontend fundamentals
+- Unit 2: React JS (Frontend Development)
+- Unit 3: Node/Express/Mongo (Backend Development)
+- Unit 4: Python/Django/Postgres
 
 <br>
+
+
 
 <a name="expectations"></a>
 ## What to Expect (10 min)
@@ -88,7 +106,18 @@ We have a plan for this course, however, we reserve the right to make changes. I
 <br>
 
 <a name="ga-culture"></a>
-## GA Culture (10 min)
+## GA Big Goals and Culture (10 min)
+
+- Big Goals: What do you want to accomplish in this course?
+- Cutlure: How do you want to get there?
+
+**YOU DO (10 min)**
+
+In breakout rooms, discuss Big Goals and Culture for this course. We'll come back and share out.
+
+
+<details>
+	<summary>Classroom Culture</summary>
 
 #### Classroom Culture
 - This is an open, safe environment.
@@ -104,6 +133,8 @@ We have a plan for this course, however, we reserve the right to make changes. I
 - Some students are good at one thing, others at another. Leverage each other's strengths.
 - Teaching is the best way of truly solidifying your understanding of a concept.
 - Your classmates will be the best foundation for establishing a professional network in tech!
+</details>
+
 
 <br>
 
