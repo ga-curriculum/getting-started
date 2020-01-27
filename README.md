@@ -4,13 +4,12 @@
 | Timing | Type 
 | --- | ---
 | 10 min | [Your Instructional Team](#introduction) 
-| 10 min | [What to Expect](#expectations) 
+| 10 min | [Schedule](#expectations) 
 | 10 min | [GA Culture](#ga-culture) 
-| 15 min | [Student Expectations](#student-expectations) 
-| 5 min | [Plagiarism](#plagiarism) 
+| 10 min | [Student Expectations](#student-expectations) 
+| 10 min | [Plagiarism](#plagiarism) 
 | 10 min | [Student Work](#student-work)
-| 15 min | [Introductions](#introductions) 
-| 10 min | [Q&A](#questions) 
+|  | [Q&A](#questions) 
 
 
 
@@ -46,7 +45,9 @@
 
 <br>
 
-## Unit 1 Schedule
+## Unit 1/Daily Schedule
+
+We have a plan for this course, however, we reserve the right to make changes. I will post a few screen shots into Slack for reference.
 
 <br>
 
@@ -109,12 +110,12 @@
 <a name="student-expectations"></a>
 ## Student Expectations (15 min)
 1. Be Present.
-  - We take attendance at 10:15 a.m.
-  - Pay attention.
-  - Let us know if you are running late by Slacking your instructor.
-  - With regard to excused absences:
- 	 - Multiple instances of tardiness = absence.
-  	- You must stay beneath the contractual limit of absences in order to successfully complete the course.
+     - We take attendance at 9:10 a.m. EST
+     - Pay attention.
+     - Let us know if you are running late by Slacking your instructor.
+     - With regard to excused absences:
+    	 - Multiple instances of tardiness = absence.
+        - You must stay beneath the contractual limit of absences in order to successfully complete the course.
 2. Be Persistent
 3. Be Independent
 4. Be Thoughtful
@@ -130,62 +131,8 @@
 
 [Plagiarism Readme](plagiarism.md)
 
-#### Statement
-
-General Assembly takes academic honesty very seriously and will not tolerate any student who plagiarizes in order to satisfy course requirements. Immersive programs at General Assembly are intensive and require a lot of work on the part of the student. That said, students will occasionally not be able to complete work in a timely fashion.  
-
-Rather than rely on work that's not your own to create the appearance of success, let your instructional team know as early as possible that you are not prepared for the work. It is much easier to come up with a plan than it is to succeed if you've been removed from the program.
-
-#### Definition
-
-Plagiarism is the act of claiming work that does not belong to you as your own. It can take many forms, and each concentration at General Assembly will have slightly different guidelines for identifying plagiarism in their fields.  
-
-Generally, it is safe to assume that, if you are including work that does not belong to you in an effort to build upon your own work, you can and should cite it. If you are using work that does not belong to you as a replacement for your own work, you are probably plagiarizing.
-
-#### Procedure
-
-If an instructor doubts a student's work or has evidence of plagiarism, the student will be asked to justify the work he or she has submitted. Should the student be unable to show that the work is in fact his or her own, he or she will face disciplinary action.  
-
-On a first offense, a student will be placed on probation and asked to produce new material conforming to the original assignment. If a student is already on probation, he or she will be removed from the program and barred from taking any further classes at General Assembly.
-
-In cases of egregious offenses (e.g., presenting another student's project, an external product, work you did before enrolling at General Assembly, work contracted out to professional developers, etc.), disciplinary action will be escalated to removal from the program.
-
 <br>
 
-<a name="student-work"></a>
-## Intro to Assessments and Exit Tickets (10 min)
-
-
-#### Common Student Concerns
-1. I'm making a lot of mistakes.
-1. What about imposter syndrome?
-1. I don't "do" math.
-1. What's the best practice? How do I find the one "correct" answer?
-	- Best practices change constantly and differ from company to company.
-	- If you think through a problem properly, you'll probably naturally arrive at a best practice.
-	- All that matters is "Does it work?"
-		- A company that hires someone with three months of experience doesn't really care about code quality.
-		- Use your time to learn new technology or strengthen your problem-solving acumen.
-1. What if I don't have a perfect understanding of everything?
-	- This course is set up to accommodate students of all ability levels.
-		- We use scaffolded lecture notes, homework, and projects.
-	- We make sure you at least understand the most essential concepts.
-1. What if I'm having trouble building an amazing portfolio/completing of all the assignments?
-	- All projects are difficult.
-		- What matters is the ability to think through the problems they present.
-	- Don't worry about completing every lab/homework assignment.
-		- They're meant as exercises in programmatic thinking.
-		- Completing an assignment and only sleeping for two hours is worse than sleeping and not completing an assignment.
-1. When should I ask questions?
-	- Ask for help only when you've been stuck for several hours.
-		- The more time you spend fixing your own bugs, the more you will learn.
-		- Getting an answer from someone else stalls the learning process.
-
-#### Advice
-1. Ask for constant feedback.
-1. Stand up and walk around.
-1. Get out a little bit each day and do something that's not related to programming.
 
 <a name="questions"></a>
-## Q&A (10 min)
-> Instructor Note: Address student questions and concerns.
+## Q&A
