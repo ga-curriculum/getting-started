@@ -9,5 +9,13 @@
 |    1/31/20  |    [Control Flow](https://git.generalassemb.ly/jdr-0127/js-control-flow)| [Video](https://generalassembly.zoom.us/rec/share/_coqAa6t1j1IXs-V6AbidpAHDpvheaa80XBK-PoNnR5gPpwXrFVQa_jt8Ge80ILO?startTime=1580480479000)                                  | 
 |    2/3/20   |    [Functions and Scope](https://git.generalassemb.ly/jdr-0127/js-functions-and-scope) / [Objects/Context](https://git.generalassemb.ly/jdr-0127/js-objects-and-context) |   [Video](https://generalassembly.zoom.us/rec/share/w_A2CJ232V5OE6PK0FGPa5A8J4HBeaa8hHMdqPoImRyvAndQDsSrqM91WAl6cmLD?startTime=1580738995000)| 
 |   2/4/20    |    [Debugging](https://git.generalassemb.ly/jdr-0127/dev-tools-debugging) / [Array Methods + Callbacks](https://git.generalassemb.ly/jdr-0127/js-array-methods)      | [Video](https://generalassembly.zoom.us/rec/share/u49lEKz5rE1LZonQ903gWI98Erj4T6a81SFL-fUNzU4SFSux9i1kWMG6k7m8iWjr)                                  | 
-|             |    []()                                                                 |                                   | 
-|             |    []()                                                                 |                                   | 
+|   2/5/20    |    [OOP](https://git.generalassemb.ly/jdr-0127/javascript-oop)|  [Video](https://generalassembly.zoom.us/rec/share/w85ZLZjh_15IXaP_zBD6ePU7P57fT6a803cb_PsLmEnvKkcReaJvpGyZwWtaV8x6?startTime=1580916554000)| 
+|             |    []()                                                                 |  []()                                 | 
+|             |    []()                                                                 |  []()                                 | 
+|             |    []()                                                                 |  []()                                 | 
+|             |    []()                                                                 |  []()                                 | 
+|             |    []()                                                                 |  []()                                 | 
+|             |    []()                                                                 |  []()                                 | 
+|             |    []()                                                                 |  []()                                 | 
+|             |    []()                                                                 |  []()                                 | 
+|             |    []()                                                                 |  []()                                 | 
