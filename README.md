@@ -57,6 +57,14 @@ We have a plan for this course, however, we reserve the right to make changes. F
 
 ![](https://i.imgur.com/JzufZ9y.png)
 
+#### Week 3
+
+![](https://i.imgur.com/3JTzCBe.png)
+
+#### Week 4
+
+![](https://i.imgur.com/57omk3E.png)
+
 
 ## Unit Breakdown
 
