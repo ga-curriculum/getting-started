@@ -11,8 +11,8 @@
 |   2/4/20    |    [Debugging](https://git.generalassemb.ly/jdr-0127/dev-tools-debugging) / [Array Methods + Callbacks](https://git.generalassemb.ly/jdr-0127/js-array-methods)      | [Video](https://generalassembly.zoom.us/rec/share/u49lEKz5rE1LZonQ903gWI98Erj4T6a81SFL-fUNzU4SFSux9i1kWMG6k7m8iWjr)                                  | 
 |   2/5/20    |    [OOP](https://git.generalassemb.ly/jdr-0127/javascript-oop)|  [Video](https://generalassembly.zoom.us/rec/share/w85ZLZjh_15IXaP_zBD6ePU7P57fT6a803cb_PsLmEnvKkcReaJvpGyZwWtaV8x6?startTime=1580916554000)| 
 |   2/6/20    |    [DOM Manipulation](https://git.generalassemb.ly/jdr-0127/js-dom) / [Event Listeners](https://git.generalassemb.ly/jdr-0127/js-events)  |  [Video](https://generalassembly.zoom.us/rec/share/6u1RALDSxkFLGJHC8HvyXJ4wG9_OX6a8hHUXr_dcmE3CImQy7sx0d5xc9ovIHqk5)                                 | 
-|   2/7/20    |    []()                                                                 |  [Video]()                                 | 
-|             |    []()                                                                 |  [Video]()                                 | 
+|   2/7/20    |    [DOM/Events Lab](https://git.generalassemb.ly/jdr-0127/atm-lab)|  [Video](https://generalassembly.zoom.us/rec/share/tMxbJZ7c9XtJUIXp-Vjda4cFBanFX6a823cXr_sPzqynyAZzUug-cKKxQlasABg)                                 | 
+|   2/10/20   |    [APIs and AJAX](https://git.generalassemb.ly/jdr-0127/js-ajax-axios) |  [Video](https://generalassembly.zoom.us/rec/share/9NV7HZfv6UJJS43i01-AdJRxPNXsT6a813Qfr_YEyR4KIyzG4kuiTjaeXuDjVeJj)                                 | 
 |             |    []()                                                                 |  [Video]()                                 | 
 |             |    []()                                                                 |  [Video]()                                 | 
 |             |    []()                                                                 |  [Video]()                                 | 
