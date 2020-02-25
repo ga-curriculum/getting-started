@@ -13,7 +13,7 @@
 |   2/6/20    |    [DOM Manipulation](https://git.generalassemb.ly/jdr-0127/js-dom) / [Event Listeners](https://git.generalassemb.ly/jdr-0127/js-events)  |  [Video](https://generalassembly.zoom.us/rec/share/6u1RALDSxkFLGJHC8HvyXJ4wG9_OX6a8hHUXr_dcmE3CImQy7sx0d5xc9ovIHqk5)                                 | 
 |   2/7/20    |    [DOM/Events Lab](https://git.generalassemb.ly/jdr-0127/atm-lab)|  [Video](https://generalassembly.zoom.us/rec/share/tMxbJZ7c9XtJUIXp-Vjda4cFBanFX6a823cXr_sPzqynyAZzUug-cKKxQlasABg)                                 | 
 |   2/10/20   |    [APIs and AJAX](https://git.generalassemb.ly/jdr-0127/js-ajax-axios) |  [Video](https://generalassembly.zoom.us/rec/share/9NV7HZfv6UJJS43i01-AdJRxPNXsT6a813Qfr_YEyR4KIyzG4kuiTjaeXuDjVeJj)                                 | 
-|             |    []()                                                                 |  [Video]()                                 | 
+|    2/24/20  |    [Intro to React Props and State](https://git.generalassemb.ly/jdr-0127/react-intro)                                                                 |  [Video](https://generalassembly.zoom.us/rec/play/v8Alceqs-Dg3TIfE4wSDVPF8W9XvKK2sgCUX8qIKzkaxVnBXZlTwZeASY7czMzNjXYo2trJpee-g0pDP?continueMode=true)                                 | 
 |             |    []()                                                                 |  [Video]()                                 | 
 |             |    []()                                                                 |  [Video]()                                 | 
 |             |    []()                                                                 |  [Video]()                                 | 
