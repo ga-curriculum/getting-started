@@ -14,7 +14,7 @@
 |   2/7/20    |    [DOM/Events Lab](https://git.generalassemb.ly/jdr-0127/atm-lab)|  [Video](https://generalassembly.zoom.us/rec/share/tMxbJZ7c9XtJUIXp-Vjda4cFBanFX6a823cXr_sPzqynyAZzUug-cKKxQlasABg)                                 | 
 |   2/10/20   |    [APIs and AJAX](https://git.generalassemb.ly/jdr-0127/js-ajax-axios) |  [Video](https://generalassembly.zoom.us/rec/share/9NV7HZfv6UJJS43i01-AdJRxPNXsT6a813Qfr_YEyR4KIyzG4kuiTjaeXuDjVeJj)                                 | 
 |    2/24/20  |    [Intro to React Props and State](https://git.generalassemb.ly/jdr-0127/react-intro)                                                                 |  [Video](https://generalassembly.zoom.us/rec/play/v8Alceqs-Dg3TIfE4wSDVPF8W9XvKK2sgCUX8qIKzkaxVnBXZlTwZeASY7czMzNjXYo2trJpee-g0pDP?continueMode=true)                                 | 
-|             |    []()                                                                 |  [Video]()                                 | 
+|     2/25/20 |    [Component Extravaganza](https://git.generalassemb.ly/jdr-0127/component-extravaganza)                                     |  [Video](https://generalassembly.zoom.us/rec/play/7JEpdOj5q283EtXE5gSDBaUtW9S7K6OshChPq6VYyxm8BXULNgb3b7MWYbOvAAGgGy_JGHvO8sdQBL3h?continueMode=true)                                 | 
 |             |    []()                                                                 |  [Video]()                                 | 
 |             |    []()                                                                 |  [Video]()                                 | 
 |             |    []()                                                                 |  [Video]()                                 | 
