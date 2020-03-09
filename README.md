@@ -77,6 +77,14 @@ We have a plan for this course, however, we reserve the right to make changes. F
 
 ![](https://i.imgur.com/FhJ2GBK.png)
 
+#### Week 8
+
+![](https://i.imgur.com/IjH6enH.png)
+
+#### Week 9 
+
+![](https://i.imgur.com/vT5uGPG.png)
+
 ## Unit Breakdown
 
 - Unit 1: Frontend fundamentals
