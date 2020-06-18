@@ -47,60 +47,60 @@
 
 ## Daily Schedule
 
-We have a plan for this course, however, we reserve the right to make changes. For example, here is our plan for the first 2 weeks.
+We have a plan for this course, however, we reserve the right to make changes. 
 
 #### Week 1
 
-![](./assets/week1.png)
+![](https://i.imgur.com/IdfGIZP.png)
 
 #### Week 2
 
-![](https://i.imgur.com/JzufZ9y.png)
+![](https://i.imgur.com/KyPoZii.png)
 
 #### Week 3
 
-![](https://i.imgur.com/3JTzCBe.png)
+![](https://i.imgur.com/U5mJ0QF.png)
 
 #### Week 4
 
-![](https://i.imgur.com/57omk3E.png)
+![](https://i.imgur.com/f9usyKu.png)
 
 #### Week 5
 
-![](https://i.imgur.com/1jkE2F8.png)
+![]()
 
 #### Week 6
 
-![](https://i.imgur.com/rgjnSLC.png)
+![]()
 
 #### Week 7 
 
-![](https://i.imgur.com/FhJ2GBK.png)
+![]()
 
 #### Week 8
 
-![](https://i.imgur.com/IjH6enH.png)
+![]()
 
 #### Week 9 
 
-![](https://i.imgur.com/vT5uGPG.png)
+![]()
 
 #### Week 10
 
-![](https://i.imgur.com/upL9aDZ.png)
+![]()
 
 #### Week 11
 
-![](https://i.imgur.com/upgCVXp.png)
+![]()
 
 #### Week 12
 
-![](https://i.imgur.com/eQt0Ouw.png)
+![]()
 
 
 #### Week 13
 
-![](https://i.imgur.com/2Ev4Jph.png)
+![]()
 
 
 ## Unit Breakdown
