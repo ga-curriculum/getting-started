@@ -1,5 +1,5 @@
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  Welcome to WDI: Learning Experience + Classroom Culture (60 min)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  Welcome to SEI: Learning Experience + Classroom Culture (60 min)
 
 | Timing | Type 
 | --- | ---
@@ -33,14 +33,14 @@
      - Lesson blocks
      - Code-alongs
      - Labs
-     - Each instructor takes on a different topic for each unit.
-     - Grades homework
+     - Each instructor takes on a unit.
+     - Grades projects
   
-2. Instructor Associate (Brian)
+2. Instructor Associate (Thiago)
      - Morning exercises
      - Afternoon code reviews
      - Creates homework
-     - Grades homework
+     - Grades homework + projects
 
 
 <br>
@@ -105,10 +105,10 @@ We have a plan for this course, however, we reserve the right to make changes.
 
 ## Unit Breakdown
 
-- Unit 1: Frontend fundamentals
-- Unit 2: React JS (Frontend Development)
-- Unit 3: Node/Express/Mongo (Backend Development)
-- Unit 4: Python/Django/Postgres
+- Unit 1: Frontend fundamentals - Leo leads
+- Unit 2: Node/Express/Postgres (Backend Development) - Marc leads
+- Unit 3: React JS (Frontend Development) - Leo leads
+- Unit 4: Python - Marc leads
 
 <br>
 
@@ -188,7 +188,7 @@ In breakout rooms, discuss Big Goals and Culture for this course. We'll come bac
 1. Be Present.
      - We take attendance at 9:10 a.m. EST
      - Pay attention.
-     - Let us know if you are running late by Slacking your instructor.
+     - Please Slack message Thiago if you are running late
      - With regard to excused absences:
     	 - Multiple instances of tardiness = absence.
         - You must stay beneath the contractual limit of absences in order to successfully complete the course.
