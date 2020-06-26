@@ -1,26 +1,10 @@
 ## Lesson Recordings
 
-| DATE        | TOPIC + GITHUB REPO                                                     |VIDEO LINK                         |
-|-------------|-------------------------------------------------------------------------|-----------------------------------|
-|   6/22/20   |    [Getting Started & Installfest](https://git.generalassemb.ly/jdr-0622/getting-started), [Command Line](https://git.generalassemb.ly/jdr-0622/cli-intro)| [Video 1](https://generalassembly.zoom.us/rec/share/zOFLCuih7UlIX6eX1EjacagRNdjVeaa80XUW-vdZnRoiTPpGK5gGErvCo57M99Fi?startTime=1592829924000), [Video 2](https://generalassembly.zoom.us/rec/share/zOFLCuih7UlIX6eX1EjacagRNdjVeaa80XUW-vdZnRoiTPpGK5gGErvCo57M99Fi?startTime=1592854323000)|                                                          
-|   6/23/20   |    []()| [Video]()|
-|  6/24/20    |    []()| [Video]()| 
-|    6/25/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-|    6/26/20  |    []()| [Video]()| 
-
+| DATE    | TOPIC + GITHUB REPO                                                     |VIDEO LINK                         |
+|---------|-------------------------------------------------------------------------|-----------------------------------|
+| 6/22/20 | [Getting Started & Installfest](https://git.generalassemb.ly/jdr-0622/getting-started), [Command Line](https://git.generalassemb.ly/jdr-0622/cli-intro)| [Video 1](https://generalassembly.zoom.us/rec/share/zOFLCuih7UlIX6eX1EjacagRNdjVeaa80XUW-vdZnRoiTPpGK5gGErvCo57M99Fi?startTime=1592829924000), [Video 2](https://generalassembly.zoom.us/rec/share/zOFLCuih7UlIX6eX1EjacagRNdjVeaa80XUW-vdZnRoiTPpGK5gGErvCo57M99Fi?startTime=1592854323000)|                                                          
+| 6/23/20 | [Git Intro, HTML & CSS](https://git.generalassemb.ly/jdr-0622/git-intro)| [Video](https://generalassembly.zoom.us/rec/share/2otyE5HP_U1OHYXr0W3eZKsdE7vVT6a80ClLrPoNxUxBbltKaL6DxwjJPOCSjMyD?startTime=1592915572000) |
+| 6/24/20 | [CSS Layout](https://git.generalassemb.ly/jdr-0622/css-layout)| [Video 1](https://generalassembly.zoom.us/rec/share/w-xLdrzz20FIZNLLs2eEB_8xNZa4T6a81HId-fFcnRz9ZFzvuWZqp3BsKGmPIUPG?startTime=1593002648000), [Video 2](https://generalassembly.zoom.us/rec/share/w-xLdrzz20FIZNLLs2eEB_8xNZa4T6a81HId-fFcnRz9ZFzvuWZqp3BsKGmPIUPG?startTime=1593030171000) |
+| 6/25/20 | [Build Portfolio](https://git.generalassemb.ly/jdr-0622/portfolio-pages), [Data types](https://git.generalassemb.ly/jdr-0622/js-data-types)| [Video 1](https://generalassembly.zoom.us/rec/share/1PdbIbrK62JJE53u-RCEZO0dOam-T6a8h3RM-vcPmhu53TGDpXjE2b9apZtoLbhb?startTime=1593088600000), [Video 2](https://generalassembly.zoom.us/rec/share/1PdbIbrK62JJE53u-RCEZO0dOam-T6a8h3RM-vcPmhu53TGDpXjE2b9apZtoLbhb?startTime=1593117966000) |
+| 6/26/20 | []()| [Video]() |
+| 6/29/20 | []()| [Video]() |
