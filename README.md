@@ -67,15 +67,15 @@ We have a plan for this course, however, we reserve the right to make changes.
 
 #### Week 5
 
-![]()
+![](https://i.imgur.com/YKSZO6M.png)
 
 #### Week 6
 
-![]()
+![](https://i.imgur.com/ysWzN2W.png)
 
 #### Week 7 
 
-![]()
+![](https://i.imgur.com/2oMTTHm.png)
 
 #### Week 8
 
