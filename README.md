@@ -79,15 +79,15 @@ We have a plan for this course, however, we reserve the right to make changes.
 
 #### Week 8
 
-![]()
+![](https://i.imgur.com/IjVeTeR.png)
 
 #### Week 9 
 
-![]()
+![](https://i.imgur.com/zZ5TbJl.png)
 
 #### Week 10
 
-![]()
+![](https://i.imgur.com/zQCXBlN.png)
 
 #### Week 11
 
