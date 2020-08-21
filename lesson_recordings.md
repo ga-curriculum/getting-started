@@ -30,10 +30,9 @@
 | 08/06/20 | [Deployment](https://git.generalassemb.ly/jdr-0622/node-express-heroku-deployment) | [Video 1](https://generalassembly.zoom.us/rec/share/-cdcL63t2SBLX52X9UbWZ6AkEo3oT6a80yAd_aYOzkkWQb0wDB5p7yTy02SFLp8p?startTime=1596724414000) |
 | 08/07/20 | Project 2 presentations | [Video 1](https://generalassembly.zoom.us/rec/share/zO9QKLHuzkBLZ4Hm82fvGY0wH5rZeaa80yQe_vcJmRoWtZYSaBDQus6rjwvXjMk?startTime=1596803808000) |
 | 08/10/20 | [React Intro](https://git.generalassemb.ly/jdr-0622/react-intro) | [Video 1](https://generalassembly.zoom.us/rec/share/v4toPpf102pJXa-Vx2bgVJ9-Tq_Vaaa8gXVM_qEEyk6d1eRkXxLD8djPfASYbYyR?startTime=1597063200000), [Video 2](https://generalassembly.zoom.us/rec/share/v4toPpf102pJXa-Vx2bgVJ9-Tq_Vaaa8gXVM_qEEyk6d1eRkXxLD8djPfASYbYyR?startTime=1597093863000) |
-| 08/11/20 | []() | [Video 1](), [Video 2]() |
-| 08/12/20 | []() | [Video 1](), [Video 2]() |
-| 08/13/20 | []() | [Video 1](), [Video 2]() |
-| 08/14/20 | []() | [Video 1](), [Video 2]() |
+| 08/11/20 | [React State & Data Flow](https://git.generalassemb.ly/jdr-0622/react-state-and-props) | [Video 1](https://generalassembly.zoom.us/rec/share/vMMtKqDr6TJJZYXL5GrjdaMQO5zDaaa80HJNqPNbxB0NHe6uaE62RnJ2unx9J2oU?startTime=1597149567000) |
+| 08/13/20 | [React State and Props](https://git.generalassemb.ly/jdr-0622/react-state-and-props/) | [Video 1](https://generalassembly.zoom.us/rec/share/yO5_AZT26DJLUoXd83H0C_YIOKP6eaa80SAa86FezR2agW38Tusk1SIWgqASC-oT?startTime=1597321928000), [Video 2](https://generalassembly.zoom.us/rec/share/yO5_AZT26DJLUoXd83H0C_YIOKP6eaa80SAa86FezR2agW38Tusk1SIWgqASC-oT?startTime=1597348788000) |
+| 08/14/20 | [React component life cycle](https://git.generalassemb.ly/jdr-0622/react-component-lifecycle/blob/master/readme.md) | [Video 1](https://generalassembly.zoom.us/rec/share/_t0pFr_M02BOHZ3x-X_7db8RN5vPeaa8gHJIqfUMxUyYHiYDkTcGgLP9dF5vOYOf?startTime=1597408053000) |
 | 08/17/20 | []() | [Video 1](), [Video 2]() |
 | 08/17/20 | []() | [Video 1](), [Video 2]() |
 | 08/18/20 | []() | [Video 1](), [Video 2]() |
