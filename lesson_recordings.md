@@ -33,6 +33,8 @@
 | 08/11/20 | [React State & Data Flow](https://git.generalassemb.ly/jdr-0622/react-state-and-props) | [Video 1](https://generalassembly.zoom.us/rec/share/vMMtKqDr6TJJZYXL5GrjdaMQO5zDaaa80HJNqPNbxB0NHe6uaE62RnJ2unx9J2oU?startTime=1597149567000) |
 | 08/13/20 | [React State and Props](https://git.generalassemb.ly/jdr-0622/react-state-and-props/) | [Video 1](https://generalassembly.zoom.us/rec/share/yO5_AZT26DJLUoXd83H0C_YIOKP6eaa80SAa86FezR2agW38Tusk1SIWgqASC-oT?startTime=1597321928000), [Video 2](https://generalassembly.zoom.us/rec/share/yO5_AZT26DJLUoXd83H0C_YIOKP6eaa80SAa86FezR2agW38Tusk1SIWgqASC-oT?startTime=1597348788000) |
 | 08/14/20 | [React component life cycle](https://git.generalassemb.ly/jdr-0622/react-component-lifecycle/blob/master/readme.md) | [Video 1](https://generalassembly.zoom.us/rec/share/_t0pFr_M02BOHZ3x-X_7db8RN5vPeaa8gHJIqfUMxUyYHiYDkTcGgLP9dF5vOYOf?startTime=1597408053000) |
-| 08/17/20 | []() | [Video 1](), [Video 2]() |
-| 08/17/20 | []() | [Video 1](), [Video 2]() |
-| 08/18/20 | []() | [Video 1](), [Video 2]() |
+| 08/17/20 | [React Router](https://git.generalassemb.ly/jdr-0622/react-router/) | [Video 1](https://generalassembly.zoom.us/rec/share/u_1uH-3C3HlLE4XTtm2AA_B4J9vAT6a82nNL-6JfnUrvfc9vQs8gdC2PARZ6lrv2?startTime=1597667752000) |
+| 08/18/20 | [React Router LAB](https://git.generalassemb.ly/jdr-0622/react-router-lab/) | [Video 1](https://generalassembly.zoom.us/rec/share/puB4AJCosT5LUInAxEjEdKkHT7bpT6a81iNL8vBfmhykODz_laysAV4kACn9BOZi?startTime=1597754199000) |
+| 08/19/20 | [React Conditional Render](https://git.generalassemb.ly/jdr-0622/React-Conditional-Rendering) | [Video 1](https://generalassembly.zoom.us/rec/share/2sdPF7z08GBOfauO1mbNZZd8N5a_X6a8higW_6YNzBzZwOSTdpcv5eFBbt21zxlD?startTime=1597840661000) |
+| 08/20/20 | [React Review](https://git.generalassemb.ly/jdr-0622/react-review) | [Video 1](https://generalassembly.zoom.us/rec/share/3f1bdLzM8DpOSdLm0n76RqQkHoPcX6a81CQc-KcPyRvYVD-w9fKax7G0CA-YapaF?startTime=1597926479000) |
+| 08/21/20 | []() | [Video 1](), [Video 2]() |
