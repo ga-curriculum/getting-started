@@ -91,16 +91,16 @@ We have a plan for this course, however, we reserve the right to make changes.
 
 #### Week 11
 
-![]()
+![](https://i.imgur.com/l9zNEhB.png)
 
 #### Week 12
 
-![]()
+![](https://i.imgur.com/XKN8EWU.png)
 
 
 #### Week 13
 
-![]()
+![](https://i.imgur.com/q2c2iEe.png)
 
 
 ## Unit Breakdown
