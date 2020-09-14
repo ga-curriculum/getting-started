@@ -67,7 +67,7 @@ We will post screen shots of each Unit here. This plan is subject to minor chang
 
 #### Week 5
 
-![](
+![]()
 
 #### Week 6
 
