@@ -29,11 +29,11 @@
 
 #### Instructor Roles
 
-1. Instructor Lead (Marc + Leo)
+1. Instructor Lead (Marc + Usman)
      - Lesson blocks
      - Code-alongs
      - Labs
-     - Each instructor takes on a unit.
+     - Each instructor leads a unit
      - Grades projects
   
 2. Instructor Associate (Thiago)
@@ -47,68 +47,68 @@
 
 ## Daily Schedule
 
-We have a plan for this course, however, we reserve the right to make changes. 
+We will post screen shots of each Unit here. This plan is subject to minor changes. 
 
 #### Week 1
 
-![](https://i.imgur.com/IdfGIZP.png)
+![](https://i.imgur.com/4zsUy6y.png)
 
 #### Week 2
 
-![](https://i.imgur.com/KyPoZii.png)
+![](https://i.imgur.com/UtxxYqk.png)
 
 #### Week 3
 
-![](https://i.imgur.com/U5mJ0QF.png)
+![](https://i.imgur.com/pAVPixR.png)
 
 #### Week 4
 
-![](https://i.imgur.com/f9usyKu.png)
+![](https://i.imgur.com/SaP29ge.png)
 
 #### Week 5
 
-![](https://i.imgur.com/YKSZO6M.png)
+![](
 
 #### Week 6
 
-![](https://i.imgur.com/ysWzN2W.png)
+![]()
 
 #### Week 7 
 
-![](https://i.imgur.com/2oMTTHm.png)
+![]()
 
 #### Week 8
 
-![](https://i.imgur.com/IjVeTeR.png)
+![]()
 
 #### Week 9 
 
-![](https://i.imgur.com/zZ5TbJl.png)
+![]()
 
 #### Week 10
 
-![](https://i.imgur.com/zQCXBlN.png)
+![]()
 
 #### Week 11
 
-![](https://i.imgur.com/l9zNEhB.png)
+![]()
 
 #### Week 12
 
-![](https://i.imgur.com/XKN8EWU.png)
+![]()
 
 
 #### Week 13
 
-![](https://i.imgur.com/q2c2iEe.png)
+![]()
 
 
 ## Unit Breakdown
 
-- Unit 1: Frontend fundamentals - Leo leads
-- Unit 2: Node/Express/Postgres (Backend Development) - Marc leads
-- Unit 3: React JS (Frontend Development) - Leo leads
-- Unit 4: Python - Marc leads
+- Unit 1: Frontend fundamentals - Usman leads
+- Unit 2: Node/Express/MongoDB (Backend Development) - Marc leads
+- Unit 3: React JS (Frontend Development) - Usman leads
+- Unit 4: Python/Flask - Marc leads
 
 <br>
 
