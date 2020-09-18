@@ -186,7 +186,7 @@ In breakout rooms, discuss Big Goals and Culture for this course. We'll come bac
 <a name="student-expectations"></a>
 ## Student Expectations (15 min)
 1. Be Present.
-     - We take attendance at 9:05 a.m. EST
+     - We take attendance at 9:10 a.m. EST
      - Pay attention.
      - Please Slack message Thiago if you are running late
      - With regard to excused absences:
