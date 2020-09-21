@@ -132,7 +132,7 @@ We will post screen shots of each Unit here. This plan is subject to minor chang
 - We try not to hold your hand.
 	- There is a decent amount of failure that happens initially when learning web development.
 		- It's good to get that out of the way before we start working.
-- This course is hard work: Be prepared to devote 80-90 hours a week, minimum.
+- This course is hard work: Be prepared to devote 60-70 hours a week, minimum.
 - The maximum point of learning is right at the edge of learning and panic.
 
 <br>
