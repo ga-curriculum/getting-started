@@ -67,15 +67,15 @@ We will post screen shots of each Unit here. This plan is subject to minor chang
 
 #### Week 5
 
-![]()
+![](https://i.imgur.com/ErJSUIA.png)
 
 #### Week 6
 
-![]()
+![](https://i.imgur.com/QrDuhUB.png)
 
 #### Week 7 
 
-![]()
+![](https://i.imgur.com/s0dv6tt.png)
 
 #### Week 8
 
