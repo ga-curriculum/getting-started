@@ -59,7 +59,7 @@ We will post screen shots of each Unit here. This plan is subject to minor chang
 
 #### Week 3
 
-![](https://i.imgur.com/pAVPixR.png)
+![](https://i.imgur.com/fGod69W.png)
 
 #### Week 4
 
