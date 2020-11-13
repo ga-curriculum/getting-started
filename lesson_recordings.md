@@ -29,7 +29,7 @@
 | 11/09/2020 | [React Intro](https://git.generalassemb.ly/prudential-0921/react-intro/) | [Video 1](https://generalassembly.zoom.us/rec/play/bU1WBXVzfdmHKnJBq0gyIzvKOCxFoOMuo7n6uPsazN4YKKQLghp65Dve6ZzSQQHDnzMwOssqLhbd9nNJ.gkFvR2NWfE5Aq_rL), [Video 2](https://generalassembly.zoom.us/rec/play/HCpCcM3d-GA5I7JUNTBICzgakZC3NR3_3YMYrba1txQlouWf9h3IT22rkUsU15BIC8Ee0PvX3j5OkhzT.iJupxM_d7iMbZFQm) |
 | 11/10/2020 | [React State](https://git.generalassemb.ly/prudential-0921/react-state) | [Video 1](https://generalassembly.zoom.us/rec/play/F9XveXQjrNyNnMothrpQpJr7l0beE88-tKhegQtSfwhfiLfcocgcKRCcNh5o2UvQIkBELwCVQ1FMFl-o.wpMcqnyxJaY36p3N) |
 | 11/12/2020 | [React State (PART 2)](https://git.generalassemb.ly/prudential-0921/react-state) | [Video 1](https://generalassembly.zoom.us/rec/play/EYWdhtjWreuoBllHNMtPrTRNoZdTVqXOX-lcOWDsNtD1__DclfkajUdpMbYQgiAroeoKY0ll06x18jo.KXnSjzgFPBMh2zBq) |
-| 11/13/2020 | []() | [Video 1]() |
+| 11/13/2020 | [Functional React](https://git.generalassemb.ly/prudential-0921/react-functional) | [Video 1](https://generalassembly.zoom.us/rec/play/MZppH77V0agI3Pyta-mhmYHVUF1baN_vwsQA7bZxBKs0EdILsX_trCO8dEnzPIkbexY9tzO7PP6hi-bQ.ICGKUBv8ofiF2cpX), [Video 2](https://generalassembly.zoom.us/rec/play/J70o4BpDE5drrMTe-UMYWM1scm8NPJoVFnTL0GwG84vlahIDO5UQ4eGY_ymIRni7AtyzZLg2m3DV5Aze.VCwbWXL5q25InBLJ) |
 | 11/16/2020 | []() | [Video 1]() |
 | 11/17/2020 | []() | [Video 1]() |
 | 11/18/2020 | []() | [Video 1]() |
