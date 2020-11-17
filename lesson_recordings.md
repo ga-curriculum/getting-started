@@ -30,7 +30,7 @@
 | 11/10/2020 | [React State](https://git.generalassemb.ly/prudential-0921/react-state) | [Video 1](https://generalassembly.zoom.us/rec/play/F9XveXQjrNyNnMothrpQpJr7l0beE88-tKhegQtSfwhfiLfcocgcKRCcNh5o2UvQIkBELwCVQ1FMFl-o.wpMcqnyxJaY36p3N) |
 | 11/12/2020 | [React State (PART 2)](https://git.generalassemb.ly/prudential-0921/react-state) | [Video 1](https://generalassembly.zoom.us/rec/play/EYWdhtjWreuoBllHNMtPrTRNoZdTVqXOX-lcOWDsNtD1__DclfkajUdpMbYQgiAroeoKY0ll06x18jo.KXnSjzgFPBMh2zBq) |
 | 11/13/2020 | [Functional React](https://git.generalassemb.ly/prudential-0921/react-functional) | [Video 1](https://generalassembly.zoom.us/rec/play/MZppH77V0agI3Pyta-mhmYHVUF1baN_vwsQA7bZxBKs0EdILsX_trCO8dEnzPIkbexY9tzO7PP6hi-bQ.ICGKUBv8ofiF2cpX), [Video 2](https://generalassembly.zoom.us/rec/play/J70o4BpDE5drrMTe-UMYWM1scm8NPJoVFnTL0GwG84vlahIDO5UQ4eGY_ymIRni7AtyzZLg2m3DV5Aze.VCwbWXL5q25InBLJ) |
-| 11/16/2020 | []() | [Video 1]() |
+| 11/16/2020 | [React Component Lifecycle](https://git.generalassemb.ly/prudential-0921/react-functional/blob/master/02-component-lifecycle.md) | [Video 1](https://generalassembly.zoom.us/rec/play/c_XVDDGb5TXrTqKFTkNkNArAdC6fghFnb16P8chtzv6UFfr-K7XoSi1dvajbNS526juN-5Oet-mqsoUa.Cun49iIlEzT5MHah), [Video 2](https://generalassembly.zoom.us/rec/play/o_ZVrpHUXvS15FNgKp4Ly5xTNhW_WXkSaWw5aW1xpafXzlWBLg4S1W0MsNbIAUALzMQBUnJ7gomKBs9s.LH5lVIK_VjtyAlt_) |
 | 11/17/2020 | []() | [Video 1]() |
 | 11/18/2020 | []() | [Video 1]() |
 | 11/19/2020 | []() | [Video 1]() |
