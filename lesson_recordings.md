@@ -33,5 +33,11 @@
 | 11/16/2020 | [React Component Lifecycle](https://git.generalassemb.ly/prudential-0921/react-functional/blob/master/02-component-lifecycle.md) | [Video 1](https://generalassembly.zoom.us/rec/play/c_XVDDGb5TXrTqKFTkNkNArAdC6fghFnb16P8chtzv6UFfr-K7XoSi1dvajbNS526juN-5Oet-mqsoUa.Cun49iIlEzT5MHah), [Video 2](https://generalassembly.zoom.us/rec/play/o_ZVrpHUXvS15FNgKp4Ly5xTNhW_WXkSaWw5aW1xpafXzlWBLg4S1W0MsNbIAUALzMQBUnJ7gomKBs9s.LH5lVIK_VjtyAlt_) |
 | 11/17/2020 | [React Router ](https://git.generalassemb.ly/prudential-0921/react-router) | [Video 1](https://generalassembly.zoom.us/rec/play/CLznG4EnqRvSjNK6eEKgGwrQsLo1inGsp0g-F7hMqK23vCl8C2sdYDlMnbaMWPl-Aq_MnCc-lcgilhoU.7-CLZWFiQQURG9PT), [Video 2](https://generalassembly.zoom.us/rec/play/WXc91wVNxoERiDwNQTe8TdoFcAR49VlpbTpgA0aDh54J46XRZTjSTmEOVkGmKz0h7CDMgxL1CSbOw7U5.Xrpyjm3llvYnYR2w) |
 | 11/18/2020 | Lighting Talks | [Video 1](https://generalassembly.zoom.us/rec/play/D6l92GynxSjkZubv_TGDO_yhtHgPZVmv2C_AYJSPwz5zuDBZTV0ZNovlot_5o8NVrV9GO-5g5_MC2F4I.f8c8TvHBSie1VhJ0) |
-| 11/19/2020 | []() | [Video 1]() |
-| 11/20/2020 | []() | [Video 1]() |
+| 11/24/2020 | [Reach Heroku Deployment](https://git.generalassemb.ly/prudential-0921/react-heroku-deployment) | [Video 1](https://generalassembly.zoom.us/rec/play/ufndYlpqIgmmY8zfHZa-AVfW-nBsjiAZsxTKdi69iPgk3UO56m_xeSLrlbgGAjPzRS1FxN8Onm4_YZm6.qt01vaaWnPc04dr8) |
+| 11/25/2020 | Project 3 presentations | [Video 1](https://generalassembly.zoom.us/rec/play/9bB07SSje4byjFDailASbieE0EIzmH7-rkmUQYgxZ9Sk2H7UMpY3cbN2rzmp6zAIqtdOdr7kR1xY1zTY.yjdA8XugsLZazYvu) |
+| 11/30/2020 | [Intro to Python](https://git.generalassemb.ly/prudential-0921/intro-to-python) | [Video 1](https://generalassembly.zoom.us/rec/play/4y28OqcH6FAG_klf3PJOQ6mjvS119zZuC6W831rm4SGWxY7_JD4ANFVHhCptzbOCtDaL0w3337hoQ2jc.EdwcPmtmnX6v3_HF) |
+| 12/01/2020 | []() | [Video 1]() |
+| 12/02/2020 | []() | [Video 1]() |
+| 12/03/2020 | []() | [Video 1]() |
+| 12/04/2020 | []() | [Video 1]() |
+| 12/07/2020 | []() | [Video 1]() |
