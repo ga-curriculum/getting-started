@@ -36,8 +36,8 @@
 | 11/24/2020 | [Reach Heroku Deployment](https://git.generalassemb.ly/prudential-0921/react-heroku-deployment) | [Video 1](https://generalassembly.zoom.us/rec/play/ufndYlpqIgmmY8zfHZa-AVfW-nBsjiAZsxTKdi69iPgk3UO56m_xeSLrlbgGAjPzRS1FxN8Onm4_YZm6.qt01vaaWnPc04dr8) |
 | 11/25/2020 | Project 3 presentations | [Video 1](https://generalassembly.zoom.us/rec/play/9bB07SSje4byjFDailASbieE0EIzmH7-rkmUQYgxZ9Sk2H7UMpY3cbN2rzmp6zAIqtdOdr7kR1xY1zTY.yjdA8XugsLZazYvu) |
 | 11/30/2020 | [Intro to Python](https://git.generalassemb.ly/prudential-0921/intro-to-python) | [Video 1](https://generalassembly.zoom.us/rec/play/4y28OqcH6FAG_klf3PJOQ6mjvS119zZuC6W831rm4SGWxY7_JD4ANFVHhCptzbOCtDaL0w3337hoQ2jc.EdwcPmtmnX6v3_HF) |
-| 12/01/2020 | []() | [Video 1]() |
-| 12/02/2020 | []() | [Video 1]() |
-| 12/03/2020 | []() | [Video 1]() |
-| 12/04/2020 | []() | [Video 1]() |
+| 12/01/2020 | [Python List Ranges](https://git.generalassemb.ly/prudential-0921/lists-ranges) | [Video 1](https://generalassembly.zoom.us/rec/play/mhdSYsvvJPePxyS7KiYZiZAnz3RSA3Z4uZyfdh6cJFwqDLC-T9WEOTlpbgYBRr00Y78Th2me30QLm_G3.6c7EFTrlcaaC3WEP) |
+| 12/02/2020 | [Python OOP](https://git.generalassemb.ly/prudential-0921/python-oop) | [Video 1](https://generalassembly.zoom.us/rec/sdownload/ku-iBHo5NnnJ3FqH7xuTvSWT7C2BIupEqG_Eqke4Z1oEk-9ZRHv6aSUgzceNkHBhowK3hxFC5OO2EqSD.kgdKDMMgLEDnvi7z), [Video 2](https://generalassembly.zoom.us/rec/play/t-TwGLv9tyXlQzifAt3HL0CO2NjFS-0yGF7Febi0RyQ63GKHguyYzliY1zRh47S1MkLo8szStrAmAW7V.MLNkICmrVFW9aa9N) |
+| 12/03/2020 | [Intro to SQL](https://git.generalassemb.ly/prudential-0921/databases/tree/master/sql-intro-lesson) | [Video 1](https://generalassembly.zoom.us/rec/play/wM4DMD5rEierQorQArQsUJp0jBxJeI-E0zXsvLeafoPEFAPT-3UbjZg-O_W1tfu0_4Egrg52fTTCNotY.R50WYaRR4F9aPla3), [Video 2](https://generalassembly.zoom.us/rec/play/wM4DMD5rEierQorQArQsUJp0jBxJeI-E0zXsvLeafoPEFAPT-3UbjZg-O_W1tfu0_4Egrg52fTTCNotY.R50WYaRR4F9aPla3) |
+| 12/04/2020 | [Intro to SQL Joins](https://git.generalassemb.ly/prudential-0921/databases/tree/master/sql-joins-lesson) | [Video 1]() |
 | 12/07/2020 | []() | [Video 1]() |
