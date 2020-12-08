@@ -40,4 +40,7 @@
 | 12/02/2020 | [Python OOP](https://git.generalassemb.ly/prudential-0921/python-oop) | [Video 1](https://generalassembly.zoom.us/rec/play/dOSwcCULY4sJpQ18TAbGeWyaCLRag59x6RhS71Iy07DrRg_IyR6fmqU61n8s66O1JDH65Yav0FjDoOZ_._CGd9_lOp_6ZxpdN), [Video 2](https://generalassembly.zoom.us/rec/play/t-TwGLv9tyXlQzifAt3HL0CO2NjFS-0yGF7Febi0RyQ63GKHguyYzliY1zRh47S1MkLo8szStrAmAW7V.MLNkICmrVFW9aa9N) |
 | 12/03/2020 | [Intro to SQL](https://git.generalassemb.ly/prudential-0921/databases/tree/master/sql-intro-lesson) | [Video 1](https://generalassembly.zoom.us/rec/play/wM4DMD5rEierQorQArQsUJp0jBxJeI-E0zXsvLeafoPEFAPT-3UbjZg-O_W1tfu0_4Egrg52fTTCNotY.R50WYaRR4F9aPla3), [Video 2](https://generalassembly.zoom.us/rec/play/wM4DMD5rEierQorQArQsUJp0jBxJeI-E0zXsvLeafoPEFAPT-3UbjZg-O_W1tfu0_4Egrg52fTTCNotY.R50WYaRR4F9aPla3) |
 | 12/04/2020 | [Intro to SQL Joins](https://git.generalassemb.ly/prudential-0921/databases/tree/master/sql-joins-lesson) | [Video 1](https://generalassembly.zoom.us/rec/play/IIkR0SRVIGiX9oFYet8f-XWR4lewQOmBt79udq4RBRqbxA5y-DNAbmebFY75njBm9NL2m4Tn5AepEm3F.CXyrsBnai2kyCmin) |
-| 12/07/2020 | []() | [Video 1]() |
+| 12/07/2020 | [Intro to Flask](https://git.generalassemb.ly/prudential-0921/flask-intro-get-post) | [Video 1](https://generalassembly.zoom.us/rec/play/TYPwMdnXdCgp0AL5KxVubKDr7cQuglLur5ZUE03LoO0eXCmxXcMwTnygdo97WWhF1dR4Qs6tpAYMQGs.9fWFQ9dfFUhfoXFk) |
+| 12/08/2020 | []() | [Video 1]() |
+| 12/09/2020 | []() | [Video 1]() |
+| 12/10/2020 | []() | [Video 1]() |
