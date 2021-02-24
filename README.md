@@ -29,14 +29,14 @@
 
 #### Instructor Roles
 
-1. Instructor Lead (Marc + Usman)
+1. Instructor Lead (Marc + Suresh)
      - Lesson blocks
      - Code-alongs
      - Labs
      - Each instructor leads a unit
      - Grades projects
   
-2. Instructor Associate (Thiago)
+2. Instructor Associate (Matthew + Thiago)
      - Morning exercises
      - Afternoon code reviews
      - Creates homework
@@ -47,68 +47,67 @@
 
 ## Daily Schedule
 
-We will post screen shots of each Unit here. This plan is subject to minor changes. 
+We will post screen shots of each Unit here. This plan is subject to changes depending on pacing, guest speakers, hackathon planning,setc. 
 
 #### Week 1
 
-![](https://i.imgur.com/AaAGeF3.png)
+![](https://i.imgur.com/dTFEfik.png)
 
 #### Week 2
 
-![](https://i.imgur.com/UtxxYqk.png)
+![](https://i.imgur.com/qEVbM4g.png)
 
 #### Week 3
 
-![](https://i.imgur.com/uiAKdHS.png)
+![](https://i.imgur.com/J1Q0krr.png)
 
 #### Week 4
 
-![](https://i.imgur.com/WEpHfFI.png)
+![](https://i.imgur.com/M9UcNcH.png)
 
-#### Week 5
+<!--#### Week 5
 
-![](https://i.imgur.com/ErJSUIA.png)
+![]()
 
 #### Week 6
 
-![](https://i.imgur.com/QrDuhUB.png)
+![]()
 
 #### Week 7 
 
-![](https://i.imgur.com/s0dv6tt.png)
+![]()
 
 #### Week 8
 
-![](https://i.imgur.com/xIxqhAO.png)
+![]()
 
 #### Week 9 
 
-![](https://i.imgur.com/7T2BIzQ.png)
+![]()
 
 #### Week 10
 
-![](https://i.imgur.com/QvaNQ7S.png)
+![]()
 
 #### Week 11
 
-![](https://i.imgur.com/v7zfasV.png)
+![]()
 
 #### Week 12
 
-![](https://i.imgur.com/4V0Sr00.png)
+![]()
 
 
 #### Week 13
 
-![](https://i.imgur.com/IwvSrVk.png)
+![]()-->
 
 
 ## Unit Breakdown
 
-- Unit 1: Frontend fundamentals - Usman leads
-- Unit 2: Node/Express/MongoDB (Backend Development) - Marc leads
-- Unit 3: React JS (Frontend Development) - Usman leads
-- Unit 4: Python/Flask - Marc leads
+- Unit 1: Frontend fundamentals - Marc leads
+- Unit 2: Java/Springboot/Postgresql (Backend Development) - Suresh leads
+- Unit 3: Angular JS (Frontend Development) - Marc leads
 
 <br>
 
@@ -186,9 +185,9 @@ In breakout rooms, discuss Big Goals and Culture for this course. We'll come bac
 <a name="student-expectations"></a>
 ## Student Expectations (15 min)
 1. Be Present.
-     - We take attendance at 9:10 a.m. EST
+     - We take attendance at 9:05 a.m. CST
      - Pay attention.
-     - Please Slack message Thiago if you are running late
+     - Please Slack message Matthew/Thiago if you are running late
      - With regard to excused absences:
     	 - Multiple instances of tardiness = absence.
         - You must stay beneath the contractual limit of absences in order to successfully complete the course.
