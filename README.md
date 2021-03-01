@@ -1,15 +1,17 @@
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  Welcome to SEI: Learning Experience + Classroom Culture (60 min)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  Welcome to SEI: Learning Experience + Classroom Culture (90 min)
 
 | Timing | Type 
 | --- | ---
-| 10 min | [Your Instructional Team](#introduction) 
+| 10 min | [Your Instructional Team](#introduction)
+| 25 min | [Student Icebreaker](#student-icebreaker) 
 | 10 min | [Schedule](#expectations) 
-| 10 min | [Big Goals and Culture](#ga-culture) 
+| 20 min | [Big Goals and Culture](#ga-culture) 
 | 10 min | [Student Expectations](#student-expectations) 
 | 10 min | [Plagiarism](#plagiarism) 
 | 10 min | [Student Work](#student-work)
-|  | [Q&A](#questions) 
+| 10 min | [Q&A](#questions) 
+| 10 min | [Additional Installfest](#additional-installfest)
 
 
 
@@ -41,6 +43,20 @@
      - Afternoon code reviews
      - Creates homework
      - Grades homework + projects
+
+
+<br>
+
+---
+
+<a name="student-icebreaker"></a>
+## Icebreaker (25 min)
+
+We're gonna pair you up in breakout rooms for 10 minutes. When we return, we'll ask you to introduce your partner by answering the following questions...
+
+- Your partner's name and city
+- What they were doing before joining this program
+- Favorite hobby and/or interesting fact
 
 
 <br>
@@ -111,8 +127,6 @@ We will post screen shots of each Unit here. This plan is subject to changes dep
 
 <br>
 
-
-
 <a name="expectations"></a>
 ## What to Expect (10 min)
 
@@ -153,7 +167,7 @@ We will post screen shots of each Unit here. This plan is subject to changes dep
 ## GA Big Goals and Culture (10 min)
 
 - Big Goals: What do you want to accomplish in this course?
-- Cutlure: How do you want to get there?
+- Culture: How do you want to get there?
 
 **YOU DO (10 min)**
 
@@ -189,7 +203,7 @@ In breakout rooms, discuss Big Goals and Culture for this course. We'll come bac
      - Pay attention.
      - Please Slack message Matthew/Thiago if you are running late
      - With regard to excused absences:
-    	 - Multiple instances of tardiness = absence.
+    	- Multiple instances of tardiness = absence.
         - You must stay beneath the contractual limit of absences in order to successfully complete the course.
 2. Be Persistent
 3. Be Independent
@@ -211,3 +225,21 @@ In breakout rooms, discuss Big Goals and Culture for this course. We'll come bac
 
 <a name="questions"></a>
 ## Q&A
+
+<br>
+
+
+<a name="additional-installfest"></a>
+## Additional Installfest
+
+
+[Installfest Repo](https://git.generalassemb.ly/java-interapt/Installfest)
+
+- PC - Install Git Bash
+- Install IntelliJ Ultimate
+
+#### Documentation to check out
+
+- [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
+
+
