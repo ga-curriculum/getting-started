@@ -9,6 +9,6 @@
 | 3/5/2021 | Control Flow | [Video](https://generalassembly.zoom.us/rec/play/dgpDy-P20S6qQYlDrlLMjMiP8z4Te7tMjuFk1zSJj6BDXPx-TUkp7jgUdbehAbiDz29RGA7f8gd_nbyF.s8lbPW0H7w418f92?continueMode=true&_x_zm_rtaid=XlK-vBpKQl2-ysp5JpR3Lw.1614992159705.ee8f59edb0a83ca2c6b98cb4bf67a6c4&_x_zm_rhtaid=356) |
 | 3/8/2021 | JS Functions + Objects | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_v4gvYFOwXdnj7s4-5F5Vj8V8NTSUapN3GUlyHEbhv6FTOo8pe9si2S6rxJ2H6YPY7J.WNiiIcXywDceynVp&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=AkAp5p32uY3Vquk8MWGlRYgXhF78mFWWD6Muo0-xYSc&s=Rx8fJlOoOBs0557IgmrbAgEdhKnWoxloBZ7K86V0s0g&e=) |
 | 3/9/2021 | Array Methods | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_XVZaS35Gkye1RGMWYtO1-5FzFGz9jCcc5mYmxC4ucHwCO-5FWoE-2DvXnck0fXDvv9WuF-5F.BFAFcOAmJ3t42RU-5F&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=Z0hWrkuchP2uVgWdmKAPp-XCCCYllpCzf34f6m7qPGc&s=y1F2K-vu6vauRyuRAAwYsfdovUBGr-c7Fld22KGggMc&e=) |
-| 3/10/2021 | []() | []() |
-| 3/11/2021 | []() | []() |
-| 3/12/2021 | []() | []() |
+| 3/10/2021 | OOP | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_xqyo1U4JgNIGMiQL5dp-2DjNpRbUVHSmIIbGLcigHkbuFugr5lwKRj4jodHsUzzL4.62hFwpTQQCsd5jYO&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=ix53ZmlDR4nOhP-GoRZJSpuuf--MVtphg12sjo_7oDc&s=V-yuTz25WrabhC8Nv9d_4nuUWc102FcIpDDaENUP4cA&e=) |
+| 3/11/2021 | []() | [Video]() |
+| 3/12/2021 | []() | [Video]() |
