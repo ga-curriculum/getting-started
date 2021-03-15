@@ -75,27 +75,27 @@ We will post screen shots of each Unit here. This plan is subject to changes dep
 
 #### Week 3
 
-![](https://i.imgur.com/J1Q0krr.png)
+![](https://i.imgur.com/wvhmxJ7.png)
 
 #### Week 4
 
-![](https://i.imgur.com/M9UcNcH.png)
+![](https://i.imgur.com/mbtUEi4.png)
 
-<!--#### Week 5
+#### Week 5
 
-![]()
+![](https://i.imgur.com/NlMEBEq.png)
 
 #### Week 6
 
-![]()
+![](https://i.imgur.com/Kz0FbFk.png)
 
 #### Week 7 
 
-![]()
+![](https://i.imgur.com/fccHbNp.png)
 
 #### Week 8
 
-![]()
+![](https://i.imgur.com/cdnCfYp.png)
 
 #### Week 9 
 
