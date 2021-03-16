@@ -12,3 +12,10 @@
 | 3/10/2021 | OOP | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_xqyo1U4JgNIGMiQL5dp-2DjNpRbUVHSmIIbGLcigHkbuFugr5lwKRj4jodHsUzzL4.62hFwpTQQCsd5jYO&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=ix53ZmlDR4nOhP-GoRZJSpuuf--MVtphg12sjo_7oDc&s=V-yuTz25WrabhC8Nv9d_4nuUWc102FcIpDDaENUP4cA&e=) |
 | 3/11/2021 | Javascript DOM | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_-5FHf5zjhvx-5FFuaSAfy3GaWWwAKSPGENUbhOBylyrPgl2rWKavc1gPK2912krWUPP3.HK0Oha10tZLTr4gy&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=KRist6uwwgakVzRsAvaUxXS6iAsAB2Ao_nMzNIpC4m8&s=QDjR0y9QmzQ18IEXXWFhL6QFVS-0RBtvBsyPgkPa3Qk&e=) |
 | 3/12/2021 | Event Listeners | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_hGuTuytyF674byPHowqq9sc6547YrwG80uSQWFxUfUr3-2D7fr9Uw-5F-2DZyCawraZJ45.YrbW9g75JvZ8E5CV&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=XR9DKbMwxoaM-brxQC-FVfqcuXgf1GY_Li9TB4IJKM0&s=FoB5e51kdJvSFuMSu2E9JDO8nqjlJn1OIavqBfehPW4&e=) |
+| 3/15/2021 | AJAX and APIs | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_o9q3dPGLlVS1qZmZLn-2Dhihm8T-2DyAU3cqAGE6HHGNEbV8L53274wArt0gPvHUWBDN.gORyyLib73iH3vTy&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=HoyzMvLbj6FMPblHL9kskglS7ipCVi6lLk6PBRNQC4Q&s=-E6KjhvDAXbICOh9c-Hw0x9BxTYsNW7XqhBnPkNA5Ns&e=) |
+| 3/12/2021 | [] | [Video]() |
+| 3/12/2021 | [] | [Video]() |
+| 3/12/2021 | [] | [Video]() |
+
+
+
