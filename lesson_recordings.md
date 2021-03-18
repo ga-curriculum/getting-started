@@ -14,7 +14,7 @@
 | 3/12/2021 | Event Listeners | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_hGuTuytyF674byPHowqq9sc6547YrwG80uSQWFxUfUr3-2D7fr9Uw-5F-2DZyCawraZJ45.YrbW9g75JvZ8E5CV&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=XR9DKbMwxoaM-brxQC-FVfqcuXgf1GY_Li9TB4IJKM0&s=FoB5e51kdJvSFuMSu2E9JDO8nqjlJn1OIavqBfehPW4&e=) |
 | 3/15/2021 | AJAX and APIs | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_o9q3dPGLlVS1qZmZLn-2Dhihm8T-2DyAU3cqAGE6HHGNEbV8L53274wArt0gPvHUWBDN.gORyyLib73iH3vTy&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=HoyzMvLbj6FMPblHL9kskglS7ipCVi6lLk6PBRNQC4Q&s=-E6KjhvDAXbICOh9c-Hw0x9BxTYsNW7XqhBnPkNA5Ns&e=) |
 | 3/16/2021 | JS DOM Quotes Lab | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_nCZ6NXSfIY5yzE2d3Y6W1otD0WU8-5Fev6zOBK1IgmNnVg47WX1DnURIGSVxqTp-2D1F.nIV4slBymnYTX1x3&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=Lj6fNHFKtJyP_ianD-sJM5q4XJh1OSYbM-NCMyyJ6Qg&s=OIVQhhuQcadG7scLbk0lSrBpnsPAdzhW6MhhdezXXvo&e=) |
-| 3/12/2021 | [] | [Video]() |
+| 3/17/2021 | Tic Tac Toe Codealong | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_sq-5F4viKjWRkcdN1RVKxatHYFjsfb80XkPm7mGan9IriVEFfHRRfG-2DSe-5FBzRyPY4d.TGYQjiI6RU2klJtF&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=YWbAxW4r1RHuwJutOi8R72spx0TfGQpQUOa_H2dxv4U&s=Lxvw4BDqXYDD5Qt0Vtk3v9_tzW2PeEAM6R0PYAaurkw&e=) |
 | 3/12/2021 | [] | [Video]() |
 
 
