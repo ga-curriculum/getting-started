@@ -17,7 +17,7 @@
 | 3/17/2021 | Tic Tac Toe Codealong | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_sq-5F4viKjWRkcdN1RVKxatHYFjsfb80XkPm7mGan9IriVEFfHRRfG-2DSe-5FBzRyPY4d.TGYQjiI6RU2klJtF&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=YWbAxW4r1RHuwJutOi8R72spx0TfGQpQUOa_H2dxv4U&s=Lxvw4BDqXYDD5Qt0Vtk3v9_tzW2PeEAM6R0PYAaurkw&e=) |
 | 3/19/2021 | Project Presentations | [Video](https://generalassembly.zoom.us/rec/share/Ab5Sm5oOR0G7VJ0dEqJqvIAzVzhPZ3LqfKA3zFHuL15hPi_ZiQIT4gRQiwqx3o5x.BZfgDOKtqi9WrP44) |
 | 3/22/2021 | Java (data types, control flow, methods) | [Video](https://generalassembly.zoom.us/rec/play/XZCUNjNKv8cmkCX6BcKKZR8MNl78SVR0Rjc9ODZ4tuxxcKJHVJgg-q2WyVuUuEGkcr9_f6oAUYdJo0hr.-d_x_5nYCRKycVVk?continueMode=true&_x_zm_rtaid=-bUhghrpTXqYsCzMH8cUqQ.1616465407402.4ef3896060e3f9d30c2be9d2450b8669&_x_zm_rhtaid=624) |
-<!-- | 3/19/2021 |  | [Video]() | -->
+| 3/23/2021 | Arrays, Linked Lists, Debugging | [Video](https://generalassembly.zoom.us/rec/share/NFdCJjze87s2K_sTjT53Rg7SLM3UWVG22OZZF89M_YbSwiwr9C0Ik3i6bhZyMw6A.FJrjEmiqTIB2wzGK) |
 <!-- | 3/19/2021 |  | [Video]() | -->
 <!-- | 3/19/2021 |  | [Video]() | -->
 <!-- | 3/19/2021 |  | [Video]() | -->
