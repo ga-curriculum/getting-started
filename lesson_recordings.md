@@ -20,7 +20,7 @@
 | 3/23/2021 | Arrays, Linked Lists, Debugging | [Video](https://generalassembly.zoom.us/rec/share/NFdCJjze87s2K_sTjT53Rg7SLM3UWVG22OZZF89M_YbSwiwr9C0Ik3i6bhZyMw6A.FJrjEmiqTIB2wzGK) |
 | 3/24/2021 | Superhero, OOP | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_P2vrEjI2F3JylUl6PTpTWJN304RvEB2TR-5F7t1xVxBS1cIsGn3vgNOKG9L4jv01mJ.qBAezRmuLqZaMDZN&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=H6YjcuG5MI3d-DDbe1VSLg_Zk98QV7ss3PZwfxkzOfw&s=rDF4S8NstCrnXhphFxcb9KZGtLgkd8PhCthTsA5RhsQ&e=) |
 | 3/25/2021 | Subclasses, Abstract classes and Interfaces | [Video](https://generalassembly.zoom.us/rec/share/zSas5CwMrxtHdMye8mTeXwXEq7K_EA64EGRQn03mMi7emjxft1J1kDvDWbsT6BW_.9ZqSFf8NWQAGbRmO) | 
-<!-- | 3/19/2021 |  | [Video]() | -->
+| 3/26/2021 | Lambdas & Streams | [Video](https://generalassembly.zoom.us/rec/play/WhS9qdS4OSM-7pSJJh9W2jdoGTKKzsAov22mmDQms6XNegmWCyAsLugvc9UqsoTq9YUl7qLqYRB32kXf.VtvPqeciSgwbfWy3?continueMode=true&_x_zm_rtaid=oi15ys6iTnON8g-kbKF3Og.1617026335574.9db1913401df24def1c164fab27abeb3&_x_zm_rhtaid=527) |
 <!-- | 3/19/2021 |  | [Video]() | -->
 <!-- | 3/19/2021 |  | [Video]() | -->
 <!-- | 3/19/2021 |  | [Video]() | -->
