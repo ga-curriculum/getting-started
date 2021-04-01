@@ -21,9 +21,9 @@
 | 3/24/2021 | Superhero, OOP | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_P2vrEjI2F3JylUl6PTpTWJN304RvEB2TR-5F7t1xVxBS1cIsGn3vgNOKG9L4jv01mJ.qBAezRmuLqZaMDZN&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=H6YjcuG5MI3d-DDbe1VSLg_Zk98QV7ss3PZwfxkzOfw&s=rDF4S8NstCrnXhphFxcb9KZGtLgkd8PhCthTsA5RhsQ&e=) |
 | 3/25/2021 | Subclasses, Abstract classes and Interfaces | [Video](https://generalassembly.zoom.us/rec/share/zSas5CwMrxtHdMye8mTeXwXEq7K_EA64EGRQn03mMi7emjxft1J1kDvDWbsT6BW_.9ZqSFf8NWQAGbRmO) | 
 | 3/26/2021 | Lambdas & Streams | [Video](https://generalassembly.zoom.us/rec/play/WhS9qdS4OSM-7pSJJh9W2jdoGTKKzsAov22mmDQms6XNegmWCyAsLugvc9UqsoTq9YUl7qLqYRB32kXf.VtvPqeciSgwbfWy3?continueMode=true&_x_zm_rtaid=oi15ys6iTnON8g-kbKF3Og.1617026335574.9db1913401df24def1c164fab27abeb3&_x_zm_rhtaid=527) |
-<!-- | 3/19/2021 |  | [Video]() | -->
-<!-- | 3/19/2021 |  | [Video]() | -->
-<!-- | 3/19/2021 |  | [Video]() | -->
+| 3/29/2021 | LAB DAY R.P.S | NO VIDEO |
+| 3/30/2021 | Junit Testing, Intro to Relational Database | [Video](https://generalassembly.zoom.us/rec/share/YZUzto9SMJzl1bEOenPWOqS1Q2fzBrD7VfinzWVka-ytMDaacBiNdEzqrgzEGc-H.Y5lvAViEadix9zoc) |
+| 3/31/2021 | SQL Joins | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_KLb62eO7NgrO-5FDVa7Q8u-5Fu9jpGwloVXEhjmFM9lGwrEK-5FRHg6GiwON1Bi-2DUKyowY.5izYrXh8EftlGFpw&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=X6LPX7SNFqR0gr_o1TlxWHQtfzk-2i5S-RuM9nZmYxA&s=viRdRow7PAvDsrwKQVqE71TLpeqnzg73q6xUmesUDv0&e=) |
 <!-- | 3/19/2021 |  | [Video]() | -->
 <!-- | 3/19/2021 |  | [Video]() | -->
 <!-- | 3/19/2021 |  | [Video]() | -->
