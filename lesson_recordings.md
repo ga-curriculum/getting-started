@@ -29,8 +29,14 @@
 | 4/5/2021 | Sprint REST API & Model Classes | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_KX2UN2tkLyF-2DF59BmIfKVGG34WbLHjJ-5FyndryOqfcXeL5BAUbflkYxB-5FyEEQKb-2Do.-2DL8VSGueRtVLCM-5Fv&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=IQom86f5IBIZ_e2kDeGypEtsYhAwzuwSTVBpW_fsMd4&s=xADdN8uz-sKOzoxYx3VrBrpoiVAKfNJoIDitN66cHDA&e=) |
 | 4/6/2021 | Spring One to Many day3 | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_jubpb-5F4m130Y1KxmX7DqJaam6hUwprGcENWWOAezgW9KNNV-5FJh-2D-2DsbPxQtruFImf.0P2OjWedGuWqmVfM&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=sQ-jsVCHo-d4Q53yAzhD5-ANyspWgklJOhi5SOpYLBw&s=jzY1TALgULhFk5Vyl25eOdHhMSuI28fihG9SCdv0nYQ&e=) |
 | 4/7/2021 | One to One relationship & User Model -  | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_4HQaUAd44Cl-2DEcn8eei-5Fi6BoQ0gB-5FUTqAVrzwUIy-2DvlHSZE9E8uQUwCtDa3XeA8m.tTrMjHPmSgpYamiI&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=sNvge4PI3excWTj9Ol_BPzvELehPENZPDurk9lhGwE4&s=VKpuPzf-My1r0YU12D6k0fdWUPsXAXePiOmtfUaO7eI&e=) |
-<!-- | 3/19/2021 |  | [Video]() | -->
-<!-- | 3/19/2021 |  | [Video]() | -->
-<!-- | 3/19/2021 |  | [Video]() | -->
+| 4/8/2021 | Spring JWT | [Video](https://generalassembly.zoom.us/rec/share/Ss6CbInRYg8xOAMGSTDRaHjLqrLyVvYkXrzJM0I9oucLZRg7LM9RzP9q9ciUWUfQ.vv_mQqSbYwYkhAdF) | 
+| 4/9/2021 | Git Branching | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_xZBxJYgehPO0ZD6iYw0sn43wJkvT4CIE9ZjA3RGJAu-2DXsKYg0x1oEz1RvwLY0XwJ.j1TyHQebU89N1Re-5F&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=9-zhv1lG-V8U9mKG6jR3UhNHfLCUBFwhkC4jlc3Ikzs&s=dKY5GjiUPItUfZkRJn8DOejSUOpbNxm-r4phBjyTi_o&e=) | -->
+<!-- | 4/00/2021 |  | [Video]() | -->
+<!-- | 4/00/2021 |  | [Video]() | -->
+<!-- | 4/00/2021 |  | [Video]() | -->
+<!-- | 4/00/2021 |  | [Video]() | -->
+<!-- | 4/00/2021 |  | [Video]() | -->
+<!-- | 4/00/2021 |  | [Video]() | -->
+
 
 
