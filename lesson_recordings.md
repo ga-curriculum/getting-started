@@ -30,8 +30,15 @@
 | 4/6/2021 | Spring One to Many day3 | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_jubpb-5F4m130Y1KxmX7DqJaam6hUwprGcENWWOAezgW9KNNV-5FJh-2D-2DsbPxQtruFImf.0P2OjWedGuWqmVfM&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=sQ-jsVCHo-d4Q53yAzhD5-ANyspWgklJOhi5SOpYLBw&s=jzY1TALgULhFk5Vyl25eOdHhMSuI28fihG9SCdv0nYQ&e=) |
 | 4/7/2021 | One to One relationship & User Model -  | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_4HQaUAd44Cl-2DEcn8eei-5Fi6BoQ0gB-5FUTqAVrzwUIy-2DvlHSZE9E8uQUwCtDa3XeA8m.tTrMjHPmSgpYamiI&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=sNvge4PI3excWTj9Ol_BPzvELehPENZPDurk9lhGwE4&s=VKpuPzf-My1r0YU12D6k0fdWUPsXAXePiOmtfUaO7eI&e=) |
 | 4/8/2021 | Spring JWT | [Video](https://generalassembly.zoom.us/rec/share/Ss6CbInRYg8xOAMGSTDRaHjLqrLyVvYkXrzJM0I9oucLZRg7LM9RzP9q9ciUWUfQ.vv_mQqSbYwYkhAdF) | 
-| 4/9/2021 | Git Branching | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_xZBxJYgehPO0ZD6iYw0sn43wJkvT4CIE9ZjA3RGJAu-2DXsKYg0x1oEz1RvwLY0XwJ.j1TyHQebU89N1Re-5F&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=9-zhv1lG-V8U9mKG6jR3UhNHfLCUBFwhkC4jlc3Ikzs&s=dKY5GjiUPItUfZkRJn8DOejSUOpbNxm-r4phBjyTi_o&e=) | -->
-| 4/23/2021 |  Microservices | [Video](https://generalassembly.zoom.us/rec/share/I_iMGvSpL9Ud3f_3qfgGD6467huQVaGzc0ErU-QIypiXBa0h0qtTHTKuF_lzUOBt.vIg24ZXr4-B1Icnl) |
+| 4/9/2021 | Git Branching | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_xZBxJYgehPO0ZD6iYw0sn43wJkvT4CIE9ZjA3RGJAu-2DXsKYg0x1oEz1RvwLY0XwJ.j1TyHQebU89N1Re-5F&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=9-zhv1lG-V8U9mKG6jR3UhNHfLCUBFwhkC4jlc3Ikzs&s=dKY5GjiUPItUfZkRJn8DOejSUOpbNxm-r4phBjyTi_o&e=) |
+| 4/16/2021 |  Project 2 Demos | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_Sh[…]Xd1cSrA&s=J8gg9rDtRNGoO3Glrx2jf93HaDRVGrN-i0Iv2gOKTnw&e=) |
+| 4/20/2021 | Intro to Microservices | [Video](https://generalassembly.zoom.us/rec/share/6fRyJG8hnkGbCV_4VlJYhcKVmIsZlz21_0JRKnFIPTw1kSa0t5h2FNhnPa8Xt9n0.1Mx3SnP1ANuDGRh1) |
+| 4/21/2021 | Intro to Microservices/Jenkins | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_xi8O9grXVk7O2d592lN12KCj6kmF6xX9n71eqSdwgb0eMcxT7zZudnI3QU7eYo-5Fy.4c4KiLH6Akh9Dhgz&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=_OCKuw99I8k-daDOXfyD33RhjutLUNRb4IUAu04rLEU&s=7XoGzqlHz3NmkUMYCdnh9R3SIrQj5odxehHc2NP-vLQ&e=) |
+| 4/23/2021 |  Spring Data | [Video](https://generalassembly.zoom.us/rec/share/I_iMGvSpL9Ud3f_3qfgGD6467huQVaGzc0ErU-QIypiXBa0h0qtTHTKuF_lzUOBt.vIg24ZXr4-B1Icnl) |
+
+<!-- | 4/00/2021 |  | [Video]() | -->
+<!-- | 4/00/2021 |  | [Video]() | -->
+<!-- | 4/00/2021 |  | [Video]() | -->
 <!-- | 4/00/2021 |  | [Video]() | -->
 <!-- | 4/00/2021 |  | [Video]() | -->
 <!-- | 4/00/2021 |  | [Video]() | -->
