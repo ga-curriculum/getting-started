@@ -36,7 +36,7 @@
 | 4/21/2021 | Intro to Microservices/Jenkins | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_xi8O9grXVk7O2d592lN12KCj6kmF6xX9n71eqSdwgb0eMcxT7zZudnI3QU7eYo-5Fy.4c4KiLH6Akh9Dhgz&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=_OCKuw99I8k-daDOXfyD33RhjutLUNRb4IUAu04rLEU&s=7XoGzqlHz3NmkUMYCdnh9R3SIrQj5odxehHc2NP-vLQ&e=) |
 | 4/23/2021 |  Spring Data | [Video](https://generalassembly.zoom.us/rec/share/I_iMGvSpL9Ud3f_3qfgGD6467huQVaGzc0ErU-QIypiXBa0h0qtTHTKuF_lzUOBt.vIg24ZXr4-B1Icnl) |
 
-<!-- | 4/00/2021 |  | [Video]() | -->
+| 4/26/2021 | Typescript | [Video](https://generalassembly.zoom.us/rec/share/zNblk60C0mYN3KV0uDlQU6L9MFQkl4Reyq6yKOTvagXDblXxwfSwUa7hetY7MiQv.Pj5FgwJfUrUjkrBC) | -
 <!-- | 4/00/2021 |  | [Video]() | -->
 <!-- | 4/00/2021 |  | [Video]() | -->
 <!-- | 4/00/2021 |  | [Video]() | -->
