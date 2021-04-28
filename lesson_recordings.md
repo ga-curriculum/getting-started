@@ -37,7 +37,7 @@
 | 4/23/2021 |  Spring Data | [Video](https://generalassembly.zoom.us/rec/share/I_iMGvSpL9Ud3f_3qfgGD6467huQVaGzc0ErU-QIypiXBa0h0qtTHTKuF_lzUOBt.vIg24ZXr4-B1Icnl) |
 
 | 4/26/2021 | Typescript | [Video](https://generalassembly.zoom.us/rec/share/zNblk60C0mYN3KV0uDlQU6L9MFQkl4Reyq6yKOTvagXDblXxwfSwUa7hetY7MiQv.Pj5FgwJfUrUjkrBC) | -
-<!-- | 4/00/2021 |  | [Video]() | -->
+| 4/27/2021 | Angular Intro/Components | [Video](https://generalassembly.zoom.us/rec/share/EgwuLE6DESxwaCeyQC4Yf4tQ4GTuD3JlIiJ8mC5nS7-Fr4n0mlS2jibyj71Q44c.0juGdVOcOCgqpjeh) |
 <!-- | 4/00/2021 |  | [Video]() | -->
 <!-- | 4/00/2021 |  | [Video]() | -->
 <!-- | 4/00/2021 |  | [Video]() | -->
