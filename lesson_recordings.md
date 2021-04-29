@@ -38,7 +38,7 @@
 
 | 4/26/2021 | Typescript | [Video](https://generalassembly.zoom.us/rec/share/zNblk60C0mYN3KV0uDlQU6L9MFQkl4Reyq6yKOTvagXDblXxwfSwUa7hetY7MiQv.Pj5FgwJfUrUjkrBC) | -
 | 4/27/2021 | Angular Intro/Components | [Video](https://generalassembly.zoom.us/rec/share/EgwuLE6DESxwaCeyQC4Yf4tQ4GTuD3JlIiJ8mC5nS7-Fr4n0mlS2jibyj71Q44c.0juGdVOcOCgqpjeh) |
-<!-- | 4/00/2021 |  | [Video]() | -->
+| 4/28/2021 | Angular Services/Directives  | [Video](https://generalassembly.zoom.us/rec/play/bIF8AIIesQB8SPdcj9Cnpj1LQAgbirRSmtq0RFoDbsnZw2l2vqA15OIebvCTvOzRwvEG4F7oPk5dJddW.oLXGMsp6Eyo7gjD0?continueMode=true&_x_zm_rtaid=cjUDGyExSCadjS_l54RH9w.1619657590569.569d48324073e99dc6e20c0f041ad758&_x_zm_rhtaid=553) |
 <!-- | 4/00/2021 |  | [Video]() | -->
 <!-- | 4/00/2021 |  | [Video]() | -->
 <!-- | 4/00/2021 |  | [Video]() | -->
