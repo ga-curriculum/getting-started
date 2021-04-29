@@ -35,7 +35,6 @@
 | 4/20/2021 | Intro to Microservices | [Video](https://generalassembly.zoom.us/rec/share/6fRyJG8hnkGbCV_4VlJYhcKVmIsZlz21_0JRKnFIPTw1kSa0t5h2FNhnPa8Xt9n0.1Mx3SnP1ANuDGRh1) |
 | 4/21/2021 | Intro to Microservices/Jenkins | [Video](https://urldefense.proofpoint.com/v2/url?u=https-3A__generalassembly.zoom.us_rec_share_xi8O9grXVk7O2d592lN12KCj6kmF6xX9n71eqSdwgb0eMcxT7zZudnI3QU7eYo-5Fy.4c4KiLH6Akh9Dhgz&d=DwQFaQ&c=ywIG7AaR1bl3EEyoRkxdZ39Vsym_4xjiNvikS1qPyDI&r=MJY3F06jswZP7lQ2FsRt1a8tcRT5asbU43hApdGwJPg&m=_OCKuw99I8k-daDOXfyD33RhjutLUNRb4IUAu04rLEU&s=7XoGzqlHz3NmkUMYCdnh9R3SIrQj5odxehHc2NP-vLQ&e=) |
 | 4/23/2021 |  Spring Data | [Video](https://generalassembly.zoom.us/rec/share/I_iMGvSpL9Ud3f_3qfgGD6467huQVaGzc0ErU-QIypiXBa0h0qtTHTKuF_lzUOBt.vIg24ZXr4-B1Icnl) |
-
 | 4/26/2021 | Typescript | [Video](https://generalassembly.zoom.us/rec/share/zNblk60C0mYN3KV0uDlQU6L9MFQkl4Reyq6yKOTvagXDblXxwfSwUa7hetY7MiQv.Pj5FgwJfUrUjkrBC) |
 | 4/27/2021 | Angular Intro/Components | [Video](https://generalassembly.zoom.us/rec/share/EgwuLE6DESxwaCeyQC4Yf4tQ4GTuD3JlIiJ8mC5nS7-Fr4n0mlS2jibyj71Q44c.0juGdVOcOCgqpjeh) |
 | 4/28/2021 | Angular Services/Directives  | [Video](https://generalassembly.zoom.us/rec/play/bIF8AIIesQB8SPdcj9Cnpj1LQAgbirRSmtq0RFoDbsnZw2l2vqA15OIebvCTvOzRwvEG4F7oPk5dJddW.oLXGMsp6Eyo7gjD0?continueMode=true&_x_zm_rtaid=cjUDGyExSCadjS_l54RH9w.1619657590569.569d48324073e99dc6e20c0f041ad758&_x_zm_rhtaid=553) |
