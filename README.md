@@ -31,19 +31,18 @@
 
 #### Instructor Roles
 
-1. Instructor Lead (Marc + Suresh)
+1. Instructor Lead (Suresh)
      - Lesson blocks
      - Code-alongs
      - Labs
-     - Each instructor leads a unit
+     - Instructor leads a unit
      - Grades projects
   
-2. Instructor Associate (Matthew + Thiago)
+2. Instructor Associate (Dhrubo)
      - Morning exercises
      - Afternoon code reviews
      - Creates homework
      - Grades homework + projects
-
 
 <br>
 
