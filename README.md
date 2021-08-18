@@ -162,9 +162,9 @@ In breakout rooms, discuss Big Goals and Culture for this course. We'll come bac
 <a name="student-expectations"></a>
 ## Student Expectations (15 min)
 1. Be Present.
-     - We take attendance at 9:05 a.m. CST
+     - We take attendance at 9:05 a.m. PST
      - Pay attention.
-     - Please Slack message Matthew/Thiago if you are running late
+     - Please Slack message Dhrubo if you are running late
      - With regard to excused absences:
     	- Multiple instances of tardiness = absence.
         - You must stay beneath the contractual limit of absences in order to successfully complete the course.
@@ -174,7 +174,7 @@ In breakout rooms, discuss Big Goals and Culture for this course. We'll come bac
 5. Be Creative
 	- This coursework is not paint by numbers.
 6. Be Alert and Mindful, not Distracted
-
+7. Have your webcam on
 
 <br>
 
