@@ -84,9 +84,10 @@ We will post screen shots of each Unit here. This plan is subject to changes dep
 
 ## Unit Breakdown
 
-- Unit 1: Frontend fundamentals - Marc leads
-- Unit 2: Java/Springboot/Postgresql (Backend Development) - Suresh leads
-- Unit 3: Angular JS (Frontend Development) - Marc leads
+- Unit 1: Foundational Java - Suresh leads
+- Unit 2: Springboot/Postgresql (Backend Development) - Suresh leads
+- Unit 3: DevOps - Suresh leads
+- Unit 4: Cloud Infrastructure - Suresh leads
 
 <br>
 
