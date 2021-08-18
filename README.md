@@ -67,52 +67,19 @@ We will post screen shots of each Unit here. This plan is subject to changes dep
 
 #### Week 1
 
-![](https://i.imgur.com/dTFEfik.png)
+![](assets/JAVA-SEI-PayPal-week1.png)
 
 #### Week 2
 
-![](https://i.imgur.com/qEVbM4g.png)
+![](assets/JAVA-SEI-PayPal-week2.png)
 
 #### Week 3
 
-![](https://i.imgur.com/wvhmxJ7.png)
+![](assets/JAVA-SEI-PayPal-week3.png)
 
 #### Week 4
 
-![](https://i.imgur.com/mbtUEi4.png)
-
-#### Week 5
-
-![](https://i.imgur.com/NlMEBEq.png)
-
-#### Week 6
-
-![](https://i.imgur.com/Kz0FbFk.png)
-
-#### Week 7 
-
-![](https://i.imgur.com/fccHbNp.png)
-
-#### Week 8
-
-![](https://i.imgur.com/cdnCfYp.png)
-
-#### Week 9 
-
-![](https://i.imgur.com/IoypSL3.png)
-
-#### Week 10
-
-![](https://i.imgur.com/7b07RcL.png)
-
-#### Week 11
-
-![](https://i.imgur.com/0GDzqiM.png)
-
-#### Week 12
-
-![](https://i.imgur.com/pHC8z6s.png)
-
+![](assets/JAVA-SEI-PayPal-week4.png)
 
 
 ## Unit Breakdown
