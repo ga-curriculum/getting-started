@@ -8,3 +8,4 @@
 | 08/26/21 | Java data types and methods| [Video](https://generalassembly.zoom.us/rec/share/6DH_miKGOHwuibraoaXhnil7iDGmEQX4jyK060GLzNw--Pj5on02f__JLFwxwavg.P_HIVQ02sjMrGTvJ)|
 | 08/27/21 | Control Flow and Loops| [Video](https://generalassembly.zoom.us/rec/share/YRoQ_8OYG4UtccsLU-JqmpvJtYulF8Nai8Gugnmt7btRIYFOYDTHUcgZWfKKN-Ui.ECVDkMj3scZPtotA)|
 | 08/30/21 | HashMap, LinkedList, Debugging| [Video1](https://generalassembly.zoom.us/rec/play/HzBsSD3cp0JiRT8v886T-G3f3GeRD-8DrqTQ3H4ohUCeyUoEc6b9hJ3MywN6Oq9PXLcPnO441QPDrV49.LNVYxuBQd6M6w_zc?startTime=1630339389000) [Video2](https://generalassembly.zoom.us/rec/share/kMF2wYE7jF0qXFYTq7psbO0L1Qp81cYjMZimlCCOR2LcXYaiGu2NrFlHuAX7AA.PNDv5AkE3xpSnj14?startTime=1630358960000)|
+| 08/31/21 | OOP, Object and Class| [Video](https://generalassembly.zoom.us/rec/share/T-NPScW1iqwAHfAR4VIzsp8SXFerjis_NhwgZFqg4vcZXhAQl82VujZkSoIWfP0u.-MHb4mDUfywK53SU)|
