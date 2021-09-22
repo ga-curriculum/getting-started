@@ -16,6 +16,7 @@
 | 09/09/21 | JUnit| [Video](https://generalassembly.zoom.us/rec/share/ThrKtSuKsnBMNqT0C4UOBYUm2Tqr8RibHeX5ZLlrqLzgZo7zcVfER6yytr04c-0K.6al3uFWaG_oraZsS?startTime=1631203459000)|
 | 09/15/21 | Guest Speaker| [Video](https://generalassembly.zoom.us/rec/play/TQVv4sPcPgdEucUez1_sKX7DZIRSdTQJJj59OVqpipu9dx82XBwGoTwobCvw4fKjMy_Sax7yyx7av_SZ.uN6hmW_oFYvICYbe?autoplay=true&startTime=1631718089000)|
 | 09/16/21 | Guest Speaker| [Video](https://generalassembly.zoom.us/rec/play/VJHAZiRRI6LVNAN039tBgF5Fuv-YB0KD9IxaupyUPrYVSGEI4eIpBQe0uiTX5nX0o5MXslCjhVwaypIj.SN0DbfOlhlmuzBRw?autoplay=true&startTime=1631812020000)|
+| 09/16/21 | P1 | [Video](https://generalassembly.zoom.us/rec/play/jlN7f5zl6-NdqGJNxXuncjKCB3noQFI1eG6uR6NQby1D5V5gTKAVSs5WEjs_ybkPZe1B2KSjBx31ub-C.sNQVscJ7clDAc0oX?autoplay=true&startTime=1631907102000)|
 
 
 
