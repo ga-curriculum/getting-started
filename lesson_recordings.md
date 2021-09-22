@@ -17,6 +17,9 @@
 | 09/15/21 | Guest Speaker| [Video](https://generalassembly.zoom.us/rec/play/TQVv4sPcPgdEucUez1_sKX7DZIRSdTQJJj59OVqpipu9dx82XBwGoTwobCvw4fKjMy_Sax7yyx7av_SZ.uN6hmW_oFYvICYbe?autoplay=true&startTime=1631718089000)|
 | 09/16/21 | Guest Speaker| [Video](https://generalassembly.zoom.us/rec/play/VJHAZiRRI6LVNAN039tBgF5Fuv-YB0KD9IxaupyUPrYVSGEI4eIpBQe0uiTX5nX0o5MXslCjhVwaypIj.SN0DbfOlhlmuzBRw?autoplay=true&startTime=1631812020000)|
 | 09/16/21 | P1 | [Video](https://generalassembly.zoom.us/rec/play/jlN7f5zl6-NdqGJNxXuncjKCB3noQFI1eG6uR6NQby1D5V5gTKAVSs5WEjs_ybkPZe1B2KSjBx31ub-C.sNQVscJ7clDAc0oX?autoplay=true&startTime=1631907102000)|
+| 09/20/21 | Stack, Queue | [Video](https://generalassembly.zoom.us/rec/share/S95FZ1LHuuzSZrdNPT2xAKd4AictomqFfhg0eVzIIo8chZrtbVP3QKm8LbZKNUBX.4q2GB6fS5XhoRiDI?startTime=1632148195000)|
+| 09/20/21 | Stack, Queue | [Video](https://generalassembly.zoom.us/rec/share/S95FZ1LHuuzSZrdNPT2xAKd4AictomqFfhg0eVzIIo8chZrtbVP3QKm8LbZKNUBX.4q2GB6fS5XhoRiDI?startTime=1632148195000)|
 
+| 09/20/21 | Linked List | [Video](https://generalassembly.zoom.us/rec/share/ShS1PFLdl4FRCWuX0ZGPIfA7mYA2j4hCvbuE4F7lPb2AmgZm4X4nZoro_jUtYXT.MWLgfy9S8f7fzTlQ?startTime=1632239318000)|
 
 
