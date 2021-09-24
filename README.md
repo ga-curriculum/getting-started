@@ -81,6 +81,25 @@ We will post screen shots of each Unit here. This plan is subject to changes dep
 ![](assets/JAVA-SEI-PayPal-week4.png)
 
 
+#### Week 5
+
+![](assets/JAVA-SEI-PayPal-week5.png)
+
+#### Week 6
+
+![](assets/JAVA-SEI-PayPal-week6.png)
+
+
+#### Week 7
+
+![](assets/JAVA-SEI-PayPal-week7.png)
+
+
+#### Week 8
+
+![](assets/JAVA-SEI-PayPal-week8.png)
+
+
 ## Unit Breakdown
 
 - Unit 1: Foundational Java - Suresh leads
