@@ -23,5 +23,6 @@
 | 09/22/21 | Binary search, Recursion | [Video](https://generalassembly.zoom.us/rec/share/ZAR4z2kGOIdi5gn5D135inK5FnqcXOwFur9YyjG0vM2j6c01rDt4NvvTQpYIxFMC.8Kp7-vibcJv63kh-)|
 | 09/23/21 | Linked Stack | [Video](https://urldefense.com/v3/__https://generalassembly.zoom.us/rec/share/1xogH9Egtu92mfnLzVNR3EC5g2YMoZea4qJZeOklKn6azIBBDbX5tLcPyYE53dZJ.T27C-v_TEGo7SUoU__;!!GgcXpDZ2N9l6uyZJ!1Qmdg8SHbwyvEUPFznpOd2cdToD3lhuR_TAvObKzo8HVK6YTOIUqxAID8Gb__F21tYhEAHMWmQ$)|
 | 09/24/21 | Tree | [Video](https://urldefense.com/v3/__https://generalassembly.zoom.us/recording/detail?meeting_id=N2axls5JSXyG5wrqTWyxrA*3D*3D__;JSU!!GgcXpDZ2N9l6uyZJ!zeF8r7Pyd81G85Khi-xAkH1dJEqWp2mF3qJCQqU_c3azFES_NyfzlYk43RjtIjQ4Ya2sVHn9GQ$)|
+| 09/25/21 | SQL | [Video](https://generalassembly.zoom.us/rec/share/ZEhjEYmQPLjsCdIjhXmQX9NjNPH5DpUNc-J9k2xlYsMrIEPRBOpt3WOHGVFoZ1LM.yvmPT8kkuzh9V9az)|
 
 
