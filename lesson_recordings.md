@@ -25,6 +25,6 @@
 | 09/24/21 | Tree | [Video](https://urldefense.com/v3/__https://generalassembly.zoom.us/recording/detail?meeting_id=N2axls5JSXyG5wrqTWyxrA*3D*3D__;JSU!!GgcXpDZ2N9l6uyZJ!zeF8r7Pyd81G85Khi-xAkH1dJEqWp2mF3qJCQqU_c3azFES_NyfzlYk43RjtIjQ4Ya2sVHn9GQ$)|
 | 09/28/21 | SQL | [Video](https://generalassembly.zoom.us/rec/share/ZEhjEYmQPLjsCdIjhXmQX9NjNPH5DpUNc-J9k2xlYsMrIEPRBOpt3WOHGVFoZ1LM.yvmPT8kkuzh9V9az)|
 | 09/30/21 | SQL | [Video](https://generalassembly.zoom.us/rec/share/ZrsUKcgGU2Zr4wwIc56a1R8-WqPo3QYfQE5YUwdvmVwMuPWLr_g3Nl3FUYcQHQYP.hgSQDOq5KPXaJdIK)|
-| 10/01/21 | SQL | [Video](https://generalassembly.zoom.us/rec/share/rHSoUS6fUzBCwOen8zp9FE9YoTuBph-mxUmiOEjyQbQqvnB3o2CZ2vVnyizENlWV._q-15IEJQ6FFBWc5)|
+| 10/01/21 | MVC | [Video](https://generalassembly.zoom.us/rec/share/rHSoUS6fUzBCwOen8zp9FE9YoTuBph-mxUmiOEjyQbQqvnB3o2CZ2vVnyizENlWV._q-15IEJQ6FFBWc5)|
 
 
