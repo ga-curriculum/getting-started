@@ -32,5 +32,6 @@
 | 10/07/21 | Spring Boot 3 | [Video](https://urldefense.com/v3/__https://generalassembly.zoom.us/rec/share/CCAcmVGawYn65YKVd8SLkFj-QU0pFspvSX8pVamsItof8meU8YuAzlXdTOpYVSKW.2D7hgPHaGehNTzV1__;!!GgcXpDZ2N9l6uyZJ!xZOpbJuzLQEwdOVmFv2kU5p_5Ezfc7-HX7OP5bYeScvG2VNqMdWgZbcktC1fzJhFq15kUq44qA$)|
 | 10/08/21 | Spring Boot 4 | [Video](https://urldefense.com/v3/__https://generalassembly.zoom.us/rec/share/Eh3L4X9HLgt9y8Vp_3_0rzZpmv_fyHFnUawVCmQIrZ2lj092B0VPNLE0VwG-luKA.898sxJWtLMzpRNNp__;!!GgcXpDZ2N9l6uyZJ!3Ba1DCC2ij2JlQcfa26HbpneK5CgZS9tEARB_BEgHvmI3Y31hNWJKqTxOMMzg9yJ5BKRgzMOcw$)  [Video2](https://urldefense.com/v3/__https://generalassembly.zoom.us/rec/share/Eh3L4X9HLgt9y8Vp_3_0rzZpmv_fyHFnUawVCmQIrZ2lj092B0VPNLE0VwG-luKA.898sxJWtLMzpRNNp__;!!GgcXpDZ2N9l6uyZJ!3Ba1DCC2ij2JlQcfa26HbpneK5CgZS9tEARB_BEgHvmI3Y31hNWJKqTxOMMzg9yJ5BKRgzMOcw$) |
 | 10/11/21 | Spring Boot 5 | [Video](https://generalassembly.zoom.us/rec/share/0p07UVT2S6T2nuZf1SqjHQJRwSsPKN56B3GJy2X_C8Z4bJ4930bCpH_rAcrYq-9n.bjjcjY71D7yJ4Jka)|
+| 10/12/21 | Spring Boot 6 | [Video](https://generalassembly.zoom.us/rec/share/pRcA8zUQiJJJve4XtkQiOjv2oIW5oKALFgZf63Q6uH434BT3HXU3UWS990HiJC-x.0Lpoq-MdudtiaOQd?startTime=1634049055000)|
 
 
