@@ -41,3 +41,5 @@
 |10/20/21 | MongoDB | [Video](https://generalassembly.zoom.us/rec/share/9S4dddTAR4-kGmfzBlc2XV2oDeHM0dbe8ZRb1y0nI61TcfeWAbetpqMguoy6iSMH.FuAv7tBKhDKQLRpy?startTime=1634747792000)|
 |10/21/21 | SpringBoot and MongoDB | [Video](https://generalassembly.zoom.us/rec/share/X08V3sT-2-_59X3WmjmBXaQlY4HC2S11ThhgFlIiV9KHhuSZggmjB9NQsLucJIt0.iUR-NWhev3atJxCl?startTime=1634826608000)|
 |10/28/21 | Intro to Docker / Setting Up the Docker Environment | [Video](https://generalassembly.zoom.us/rec/share/eSqPHrCmbe0-Fc-Of59YnerDS1HOysmqshRwnFLdKuA3F18l3End75zS4maS7O2N.gjAvNrKL3S8nRUDG?startTime=1635456848000)|
+|10/29/21 | Docker Part 1 | [Video](https://generalassembly.zoom.us/rec/share/NL7HkhOET_H2rCXgdZjchuS56RBRko8l5PqYpYd8o8-Pb8VnXQbb8XqHzuxIC5ST.oP2mym-XsA9DZn7S?startTime=1635526458000)|
+|10/29/21 | Docker Part 2 | [Video](https://generalassembly.zoom.us/rec/share/NL7HkhOET_H2rCXgdZjchuS56RBRko8l5PqYpYd8o8-Pb8VnXQbb8XqHzuxIC5ST.oP2mym-XsA9DZn7S?startTime=1635540620000)|
