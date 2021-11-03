@@ -36,8 +36,8 @@
 |10/13/21 | Guest Speaker | [Video](https://generalassembly.zoom.us/rec/share/peLihv_RsGIIBIxNIDCjLs0gcTIulZwzyPz1X9Svjrd9H25zak43jaaAelkRhADK.oR0KYWLrGydwpOLw?startTime=1634135455000)|
 |10/14/22 | Guest Speaker | [Video](https://generalassembly.zoom.us/rec/share/dvyz20NXDGk3RAkpkizPZbveN2zBrtwXp0abfQKplm5KIDJYLMmFDoPoH4EuMVzt.VrA0IvPY6BMukaAD?startTime=1634223582000) [Video](https://generalassembly.zoom.us/rec/share/dvyz20NXDGk3RAkpkizPZbveN2zBrtwXp0abfQKplm5KIDJYLMmFDoPoH4EuMVzt.VrA0IvPY6BMukaAD?startTime=1634225842000)|
 |10/15/23 | Guest Speaker | [Video](https://generalassembly.zoom.us/rec/share/wYGZn3o54FbVqqXT4o3LRl9vzp43ABT6A3p2nNXoMMbs2f7CHJtKOfyWDo2vMIQH.u_b8eSTt8R6d6orh?startTime=1634310140000)|
-|10/18/24 | Guest Speaker | [Video](https://generalassembly.zoom.us/rec/play/8f4qHCkqcr8VB542JJ9WICWB8u6YDp94cA-rhW1ldeZjCgN9tgORhWCvmfRDCVD5i6kGsIVRSgWo9Mpj.66FvtIzjv5eQ90iZ?autoplay=true&startTime=1634569340000)|
+|10/18/21 | Guest Speaker | [Video](https://generalassembly.zoom.us/rec/play/8f4qHCkqcr8VB542JJ9WICWB8u6YDp94cA-rhW1ldeZjCgN9tgORhWCvmfRDCVD5i6kGsIVRSgWo9Mpj.66FvtIzjv5eQ90iZ?autoplay=true&startTime=1634569340000)|
 |10/19/25 | Project 2 - presentation | [Video](https://generalassembly.zoom.us/rec/share/lUFfDGJedjbMKYaWSapM8Q54ZuTJQwXoOXJVIc8tGs_TX1QLTAcS2o8SuYSuA935.i0dFpgVsEq6dMyA4?startTime=1634678268000)|
-|10/20/26 | MongoDB | [Video](https://generalassembly.zoom.us/rec/share/9S4dddTAR4-kGmfzBlc2XV2oDeHM0dbe8ZRb1y0nI61TcfeWAbetpqMguoy6iSMH.FuAv7tBKhDKQLRpy?startTime=1634747792000)|
-|10/21/26 | SpringBoot and MongoDB | [Video](https://generalassembly.zoom.us/rec/share/X08V3sT-2-_59X3WmjmBXaQlY4HC2S11ThhgFlIiV9KHhuSZggmjB9NQsLucJIt0.iUR-NWhev3atJxCl?startTime=1634826608000)|
-
+|10/20/21 | MongoDB | [Video](https://generalassembly.zoom.us/rec/share/9S4dddTAR4-kGmfzBlc2XV2oDeHM0dbe8ZRb1y0nI61TcfeWAbetpqMguoy6iSMH.FuAv7tBKhDKQLRpy?startTime=1634747792000)|
+|10/21/21 | SpringBoot and MongoDB | [Video](https://generalassembly.zoom.us/rec/share/X08V3sT-2-_59X3WmjmBXaQlY4HC2S11ThhgFlIiV9KHhuSZggmjB9NQsLucJIt0.iUR-NWhev3atJxCl?startTime=1634826608000)|
+|10/28/21 | Intro to Docker / Setting Up the Docker Environment | [Video](https://generalassembly.zoom.us/rec/share/eSqPHrCmbe0-Fc-Of59YnerDS1HOysmqshRwnFLdKuA3F18l3End75zS4maS7O2N.gjAvNrKL3S8nRUDG?startTime=1635456848000)|
