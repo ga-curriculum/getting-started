@@ -43,3 +43,7 @@
 |10/28/21 | Intro to Docker / Setting Up the Docker Environment | [Video](https://generalassembly.zoom.us/rec/share/eSqPHrCmbe0-Fc-Of59YnerDS1HOysmqshRwnFLdKuA3F18l3End75zS4maS7O2N.gjAvNrKL3S8nRUDG?startTime=1635456848000)|
 |10/29/21 | Docker Part 1 | [Video](https://generalassembly.zoom.us/rec/share/NL7HkhOET_H2rCXgdZjchuS56RBRko8l5PqYpYd8o8-Pb8VnXQbb8XqHzuxIC5ST.oP2mym-XsA9DZn7S?startTime=1635526458000)|
 |10/29/21 | Docker Part 2 | [Video](https://generalassembly.zoom.us/rec/share/NL7HkhOET_H2rCXgdZjchuS56RBRko8l5PqYpYd8o8-Pb8VnXQbb8XqHzuxIC5ST.oP2mym-XsA9DZn7S?startTime=1635540620000)|
+|11/1/21 | Intro to Cloud | [Video](https://generalassembly.zoom.us/rec/share/0wjYSlc8XEVpUNmj-xgYuI6kkricwrVCM-399BFln5Z6S8jzzZK4haOpjeT8HUeb.7E8O5J0wypfLIFR3?startTime=1635795305000)|
+|11/2/21 | AWS Elastic Beanstalk Deployment | [Video](https://generalassembly.zoom.us/rec/share/BzFWOoHhJ78QxVPyuBjQqc5uUBft_xYQOxJm7xmZdgRwaq7tF6ZsdyWfs_EovPph.sOSjbtrC6-H394aO?startTime=1635874062000)|
+|11/3/21 | Continuous Integration and Delivery - Jenkins | [Video](https://generalassembly.zoom.us/rec/share/ROrGBlYmYtBvAnM_24l85P2juZhsDXfKKIdY_czwQ3mLLSrq_yLajEJXFxwidI3S.MESpoepcvhQm04t8?startTime=1635959787000)|
+|11/8/21 | Intro to Microservices | [Video](https://generalassembly.zoom.us/rec/share/Z-xRroAuH9BClqPj8rM7eIYwbTiNriJwzObhdqQAQTJqe_0HwT4YYg0Hf-C1lubt.U6uph5Mb27ZVVb-b?startTime=1636397744000)|
