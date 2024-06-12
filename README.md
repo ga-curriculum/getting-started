@@ -51,7 +51,7 @@
 <a name="student-icebreaker"></a>
 ## Icebreaker (25 min)
 
-We're gonna pair you up in breakout rooms for 10 minutes. When we return, we'll ask you to introduce your partner by answering the following questions...
+We're going to pair you up in breakout rooms for 10 minutes. When we return, we'll ask you to introduce your partner by answering the following questions:
 
 - Your partner's name and city
 - What they were doing before joining this program
@@ -62,7 +62,7 @@ We're gonna pair you up in breakout rooms for 10 minutes. When we return, we'll 
 
 ## Daily Schedule
 
-We will post screen shots of each Unit here. This plan is subject to changes depending on pacing, guest speakers, hackathon planning,setc. 
+We will post screenshots of each Unit here. This plan is subject to change depending on pacing, guest speakers, hackathon planning, etc. 
 
 #### Week 1
 
@@ -81,19 +81,19 @@ We will post screen shots of each Unit here. This plan is subject to changes dep
 
 #### Emotional Framing
 - Programming is not about learning a sequence of steps. It's about developing a mindset to solve problems and think programmatically.
-- Progamming language not as important as:
+- Programming language not as important as:
     - Critical/analytical/programmatic thinking.
     - Conceptualizing, not simply memorizing, ideas.
         - The internet is your notebook/memory.
     - Being able to adapt quickly.
 - Deal with the chaos in your head. Being confused/lost is NORMAL. No one pays you because you know all the answers. A developer's job is to jump into confusion and find a solution.
 - Development can be very personal. It's about:
-	- Debugging your own mistakes.
-	- Being a good "Googler" and reading tech documents, which takes practice.
-	- Learning more by doing, rather than by listening.
+    - Debugging your own mistakes.
+    - Being a good "Googler" and reading tech documents takes practice.
+    - Learning more by doing rather than by listening.
 - We try not to hold your hand.
-	- There is a decent amount of failure that happens initially when learning web development.
-		- It's good to get that out of the way before we start working.
+    - A decent amount of failure happens initially when learning web development.
+        - Getting that out of the way before we start working is good.
 - This course is hard work: Be prepared to devote 60-70 hours a week, minimum.
 - The maximum point of learning is right at the edge of learning and panic.
 
@@ -120,11 +120,11 @@ We will post screen shots of each Unit here. This plan is subject to changes dep
 
 **YOU DO (10 min)**
 
-In breakout rooms, discuss Big Goals and Culture for this course. We'll come back and share out.
+In breakout rooms, discuss the Big Goals and Culture for this course. We'll come back and share out.
 
 
 <details>
-	<summary>Classroom Culture</summary>
+    <summary>Classroom Culture</summary>
 
 #### Classroom Culture
 - This is an open, safe environment.
@@ -132,13 +132,13 @@ In breakout rooms, discuss Big Goals and Culture for this course. We'll come bac
 - Take ownership of your experience.
 - Check your ego at the door.
 - Channel empathy.
-- Don't compare yourself to others, compare yourself to who you were yesterday.
+- Don't compare yourself to others; compare yourself to who you were yesterday.
 - You get back what you put in.
 
 #### Mentorship Culture
-- GA collaborative and supportive; we lead with offering help.
+- GA is collaborative and supportive; we lead by offering help.
 - Some students are good at one thing, others at another. Leverage each other's strengths.
-- Teaching is the best way of truly solidifying your understanding of a concept.
+- Teaching is the best way to solidify your understanding of a concept.
 - Your classmates will be the best foundation for establishing a professional network in tech!
 </details>
 
@@ -148,17 +148,17 @@ In breakout rooms, discuss Big Goals and Culture for this course. We'll come bac
 <a name="student-expectations"></a>
 ## Student Expectations (15 min)
 1. Be Present.
-     - We take attendance at 9:05 a.m. PST
-     - Pay attention.
-     - Please Slack message Dhrubo if you are running late
-     - With regard to excused absences:
-    	- Multiple instances of tardiness = absence.
-        - You must stay beneath the contractual limit of absences in order to successfully complete the course.
+ - We take attendance at 9:05 a.m. PST
+ - Pay attention.
+ - Please Slack message Dhrubo if you are running late
+ - Concerning excused absences:
+ - Multiple instances of tardiness = absence.
+ - You must stay below the contractual limit for absences to complete the course successfully.
 2. Be Persistent
 3. Be Independent
 4. Be Thoughtful
 5. Be Creative
-	- This coursework is not paint by numbers.
+ - This coursework is not "paint by numbers".
 6. Be Alert and Mindful, not Distracted
 7. Have your webcam on
 
@@ -190,5 +190,3 @@ In breakout rooms, discuss Big Goals and Culture for this course. We'll come bac
 #### Documentation to check out
 
 - [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github)
-
-
