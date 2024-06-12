@@ -66,60 +66,13 @@ We will post screen shots of each Unit here. This plan is subject to changes dep
 
 #### Week 1
 
-![](assets/JAVA-SEI-PayPal-week1.png)
-
-#### Week 2
-
-![](assets/JAVA-SEI-PayPal-week2.png)
-
-#### Week 3
-
-![](assets/JAVA-SEI-PayPal-week3.png)
-
-#### Week 4
-
-![](assets/JAVA-SEI-PayPal-week4.png)
-
-
-#### Week 5
-
-![](assets/JAVA-SEI-PayPal-week5.png)
-
-#### Week 6
-
-![](assets/JAVA-SEI-PayPal-week6.png)
-
-
-#### Week 7
-
-![](assets/JAVA-SEI-PayPal-week7.png)
-
-
-#### Week 8
-
-![](assets/JAVA-SEI-PayPal-week8.png)
-
-
-#### Week 9
-
-![](assets/JAVA-SEI-PayPal-week9.png)
-
-
-#### Week 10
-
-![](assets/JAVA-SEI-PayPal-week10.png)
-
-#### Week 11
-
-![](assets/JAVA-SEI-PayPal-week11.png)
-
 
 ## Unit Breakdown
 
-- Unit 1: Foundational Java - Suresh leads
-- Unit 2: Springboot/Postgresql (Backend Development) - Suresh leads
-- Unit 3: DevOps - Suresh leads
-- Unit 4: Cloud Infrastructure - Suresh leads
+- Unit 1: Foundational Java
+- Unit 2: Springboot/Postgresql (Backend Development)
+- Unit 3: DevOps
+- Unit 4: Cloud Infrastructure
 
 <br>
 
