@@ -1,5 +1,5 @@
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  Welcome to SEI: Learning Experience + Classroom Culture (90 min)
+# <picture><img src="https://ga-curriculum.github.io/universal-resources-internal/ga-logos/ga-red-cog-128x128.png" alt="" height="48" align="absmiddle"></picture> Welcome to SEI: Learning Experience + Classroom Culture (90 min)
 
 | Timing | Type 
 | --- | ---
