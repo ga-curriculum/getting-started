@@ -182,7 +182,7 @@ In breakout rooms, discuss the Big Goals and Culture for this course. We'll come
 ## Additional Installfest
 
 
-[Installfest Repo](https://git.generalassemb.ly/java-interapt/Installfest)
+[Installfest Repo](https://github.com/ga-curriculum/installfest)
 
 - PC - Install Git Bash
 - Install IntelliJ Ultimate
